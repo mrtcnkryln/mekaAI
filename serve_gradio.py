@@ -31,37 +31,50 @@ def load():
 
 tokenizer, model = load()
 
-def build_prompt(history, user):
+def build_prompt(messages, user_text: str):
+    # messages: [{"role": "user"/"assistant", "content": "..."}]
     p = f"SYSTEM: {SYSTEM_PROMPT}\n"
-    for u, a in history:
-        p += f"USER: {u}\nASSISTANT: {a}\n"
-    p += f"USER: {user}\nASSISTANT:"
+    for m in messages:
+        if m["role"] == "user":
+            p += f"USER: {m['content']}\n"
+        elif m["role"] == "assistant":
+            p += f"ASSISTANT: {m['content']}\n"
+    p += f"USER: {user_text}\nASSISTANT:"
     return p
 
 @torch.no_grad()
-def respond(user, history):
-    prompt = build_prompt(history, user)
+def respond(user_text, messages):
+    if messages is None:
+        messages = []
+
+    prompt = build_prompt(messages, user_text)
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+
     out = model.generate(
         **inputs,
         max_new_tokens=MAX_NEW_TOKENS,
         do_sample=False,
-        temperature=0.0,
         pad_token_id=tokenizer.eos_token_id,
     )
+
     text = tokenizer.decode(out[0], skip_special_tokens=True)
     answer = text.split("ASSISTANT:")[-1].strip()
-    history = history + [(user, answer)]
-    return "", history
+
+    messages = messages + [
+        {"role": "user", "content": user_text},
+        {"role": "assistant", "content": answer},
+    ]
+    return "", messages
 
 with gr.Blocks() as demo:
     gr.Markdown("# mekaAI – Qwen2.5-7B + LoRA (RunPod Test UI)")
     gr.Markdown("Bu arayüz test amaçlıdır; hukuki görüş değildir.")
-    chat = gr.Chatbot(height=520)
+
+    chatbot = gr.Chatbot(type="messages", height=520)
     msg = gr.Textbox(label="Soru", placeholder="Sorunu yaz ve Enter'a bas...")
     clear = gr.Button("Temizle")
 
-    msg.submit(respond, [msg, chat], [msg, chat])
-    clear.click(lambda: [], None, chat)
+    msg.submit(respond, [msg, chatbot], [msg, chatbot])
+    clear.click(lambda: [], None, chatbot)
 
 demo.launch(server_name="0.0.0.0", server_port=8888)
