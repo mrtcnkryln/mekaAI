@@ -22,18 +22,17 @@ MAX_NEW_TOKENS = int(os.environ.get("MAX_NEW_TOKENS", "220"))
 MIN_TOP1_SCORE = float(os.environ.get("MIN_TOP1_SCORE", "0.35"))
 MIN_TOP1_LEN = int(os.environ.get("MIN_TOP1_LEN", "200"))
 
+DEBUG = os.environ.get("DEBUG_RAG", "0") == "1"
+
 SYSTEM_PROMPT = (
-    "Sen Türkiye mevzuatına dayalı bir asistansın.\n"
-    "Aşağıdaki ALINTI parçaları tek kaynaktır.\n"
-    "Kurallar:\n"
-    "- Dayanak ve Alıntı sadece ALINTI'dan gelmeli.\n"
-    "- ALINTI içinde yoksa: 'Bilmiyorum (kaynakta yok)'.\n"
-    "- Yorum bölümünde pratik açıklama yapabilirsin ama yeni madde numarası UYDURMA.\n\n"
-    "Çıktı formatı:\n"
-    "Kısa cevap: ...\n"
-    "Dayanak: ...\n"
-    "Alıntı: ...\n"
-    "Yorum: ...\n"
+  "Sen bir hukuk asistanısın. SADECE ALINTI metnine dayan.\n"
+  "Eğer ALINTI içinde açık kural yoksa: 'Bilmiyorum (kaynakta yok)'.\n"
+  "Çıktı formatı şu 4 satırdan ibaret olsun:\n"
+  "Kısa cevap: ...\n"
+  "Dayanak: ...\n"
+  "Alıntı: ...\n"
+  "Yorum: ...\n"
+  "Başka başlık, not, seçenek, yönlendirme yazma."
 )
 
 # -------- Load retrieval index
@@ -107,7 +106,11 @@ def respond(user_text, history):
         eos_token_id=tokenizer.eos_token_id,
     )
     decoded = tokenizer.decode(out[0], skip_special_tokens=True)
-    return decoded[len(prompt):].strip()
+    answer = decoded[len(prompt):].strip()
+    if DEBUG:
+        top1_file = hits[0][1]["file"] if hits else "none"
+        answer += f"\n\n[debug] top1_score={top1_score:.3f} top1_file={top1_file}"
+    return answer
 
 demo = gr.ChatInterface(
     fn=respond,
