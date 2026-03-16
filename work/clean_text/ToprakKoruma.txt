@@ -1,0 +1,1873 @@
+TOPRAK KORUMA VE ARAZİ KULLANIMI KANUNU
+
+Kanun Numarası
+: 5403
+Kabul Tarihi
+: 3/7/2005
+Yayımlandığı Resmî Gazete : Tarih  : 19/7/2005
+Sayı : 25880
+Yayımlandığı Düstur
+: Tertip : 5
+Cilt : 44
+
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç
+MADDE 1 - (Değişik: 30/4/2014-6537/1 md.)
+Bu Kanunun amacı; toprağın korunması, geliştirilmesi, tarım arazilerinin sınıflandırılması,
+asgari tarımsal arazi ve yeter gelirli tarımsal arazi büyüklüklerinin belirlenmesi ve bölünmelerinin
+önlenmesi, tarımsal arazi ve yeter gelirli tarımsal arazilerin çevre öncelikli sürdürülebilir kalkınma
+ilkesine uygun olarak planlı kullanımını sağlayacak usul ve esasları belirlemektir.
+
+Kapsam
+MADDE 2 - (Değişik: 30/4/2014-6537/2 md.)
+Bu Kanun; arazi ve toprak kaynaklarının bilimsel esaslara uygun olarak sınıflandırılması,
+tarımsal arazi ve yeter gelirli tarımsal arazilerin asgari büyüklüklerinin belirlenmesi ve
+bölünmelerinin önlenmesi, arazi kullanım planlarının hazırlanması, koruma ve geliştirme
+sürecinde toplumsal, ekonomik ve çevresel boyutlarının katılımcı yöntemlerle değerlendirilmesi,
+amaç dışı ve yanlış kullanımların önlenmesi, korumayı sağlayacak yöntemlerin oluşturulması ile
+görev, yetki ve sorumluluklara ilişkin usul ve esasları kapsar.
+
+Tanımlar
+MADDE 3 - Bu Kanunda geçen;
+a) Bakanlık: Tarım ve Köyişleri Bakanlığını,
+b) Kurul: Toprak Koruma Kurulunu,
+c) Toprak: Mineral ve organik maddelerin parçalanarak ayrışması sonucu oluşan,
+yeryüzünü ince bir tabaka halinde kaplayan, canlı ve doğal kaynağı,
+ç) Arazi: Toprak, iklim, topografya, ana materyal, hidroloji ve canlıların değişik
+oranda etkisi altında bulunan yeryüzü parçasını,
+d) Tarım arazisi: Toprak, topografya ve iklimsel özellikleri tarımsal üretim için uygun
+olup, hâlihazırda tarımsal üretim yapılan veya yapılmaya uygun olan veya imar, ihya, ıslah
+edilerek tarımsal üretim yapılmaya uygun hale dönüştürülebilen arazileri,
+e) Mutlak tarım arazisi: Bitkisel üretimde; toprağın fiziksel, kimyasal ve biyolojik
+özelliklerinin kombinasyonu yöre ortalamasında ürün alınabilmesi için sınırlayıcı olmayan,
+topografik sınırlamaları yok veya çok az olan; ülkesel, bölgesel veya yerel önemi bulunan,
+hâlihazır tarımsal üretimde kullanılan veya bu amaçla kullanıma elverişli olan arazileri,
+
+f) Özel ürün arazisi: Mutlak tarım arazileri dışında kalan, toprak ve topografik
+sınırlamaları nedeniyle yöreye adapte olmuş bitki türlerinin tamamının tarımının yapılamadığı
+ancak özel bitkisel ürünlerin yetiştiriciliği ile su ürünleri yetiştiriciliğinin ve avcılığının
+yapılabildiği, ülkesel, bölgesel veya yerel önemi bulunan arazileri,
+g) Dikili tarım arazisi: Mutlak ve özel ürün arazileri dışında kalan ve üzerinde yöre
+ekolojisine uygun çok yıllık ağaç, ağaççık ve çalı formundaki bitkilerin tarımı yapılan,
+ülkesel, bölgesel veya yerel önemi bulunan arazileri,
+ğ) Marjinal tarım arazisi: Mutlak tarım arazileri, özel ürün arazileri ve dikili tarım
+arazileri dışında kalan, toprak ve topografik sınırlamalar nedeniyle üzerinde sadece geleneksel
+toprak işlemeli tarımın yapıldığı arazileri,
+h) (Değişik: 30/4/2014-6537/3 md.) Asgari tarımsal arazi büyüklüğü: Üretim faaliyet
+ve girdileri rasyonel ve ekonomik olarak kullanıldığı takdirde, bir tarımsal arazide elde edilen
+verimliliğin, söz konusu tarımsal arazinin daha fazla küçülmesi hâlinde elde edilemeyeceği
+Bakanlıkça belirlenen en küçük tarımsal parsel büyüklüğünü,
+ı) (Değişik: 30/4/2014-6537/3 md.) Yeter gelirli tarımsal arazi büyüklüğü: Bölge
+farklılıkları göz önünde bulundurularak il ve ilçelerin ekli (1) sayılı listede belirlenen yeter
+gelirli tarımsal arazi büyüklüklerini,
+i) Tarım dışı alanlar: Üzerinde toprak bulunmayan çıplak kayaları, daimi karla kaplı
+alanları, ırmak yataklarını, sahil kumullarını, sazlık ve bataklıkları, askeri alanları, endüstriyel,
+turizm, rekreasyon, iskân, altyapı ve benzeri amaçlarla plânlanmış arazileri,
+j) Sulu tarım arazisi: Tarımı yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu
+suyun, su kaynağından alınarak yeterli miktarda ve kontrollü bir şekilde karşılandığı arazileri,
+k) Tarımsal amaçlı yapılar: Toprak koruma ve sulamaya yönelik altyapı tesisleri,
+entegre nitelikte olmayan hayvancılık ve su ürünleri üretim ve muhafaza tesisleri ile zorunlu
+olarak tesis edilmesi gerekli olan müştemilatı, mandıra, üreticinin bitkisel üretime bağlı olarak
+elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım
+alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar,
+tarımsal işletmede üretilen ürünün özelliği itibarıyla hasattan sonra iki saat içinde işlenmediği
+takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için
+kurulan tesisler ile Bakanlık tarafından tarımsal amaçlı olduğu kabul edilen entegre nitelikte
+olmayan diğer tesisleri,
+l) Arazi yetenek sınıflaması: Toprak bozulmasına neden olmayacak şekilde arazinin en
+uygun kullanım şeklini belirlemek için kullanım ve koruma verilerini bir araya getirerek temel
+toprak etütlerine ve iklim koşullarına dayalı yapılan plânlamalara yönelik arazi sınıflamasını,
+m) Arazi kullanım plânlaması: Her ölçekte plânlamaya temel oluşturmak üzere, toprağın
+ve diğer çevresel kaynakların bozulmasını önlemek için ekolojik, toplumsal ve ekonomik şartlar
+gözetilerek sürdürülebilirlik ilkesine uygun, farklı arazi kullanım şekillerini oluşturmaya
+yönelik toprak ve su potansiyelinin belirlenip, sistematik olarak değerlendirilmesini ve birbirleri
+ile olan ilişkilerini ortaya koyan rasyonel arazi kullanım plânlarını,
+
+n) Tarımsal amaçlı arazi kullanım plân ve projeleri: Tarım alanlarında yörenin
+ekolojik, ekonomik ve toplumsal özellikleri dikkate alınarak toprakların sürekli üretkenliğini
+sağlayacak tarım tekniklerini, toprak, su, bitki ve insan ilişkileri ile toprak korumaya yönelik
+diğer fiziksel, kimyasal, kültürel ve bitkisel düzenlemeleri kapsayan rasyonel tarımsal arazi
+kullanım plân ve projelerini,
+o) Toprak koruma projeleri: Toprağın doğal veya insan faaliyetleri sonucu yok
+olmasını, bozulmasını veya zarar görmesini önlemek ve sürekli üretken kalmasını sağlamak
+için yapılan fiziksel, kültürel ve bitkisel tedbirleri kapsayan projeleri,
+ö) (Mülga: 19/4/2018-7139/41 md.)
+p) (Mülga: 19/4/2018-7139/41 md.)
+r) Arazi bozulması: Arazinin doğal veya yapay etkiler sonucu özelliklerinin
+değişikliğe uğraması ile ekonomik ve ekolojik işlevlerinin azalması veya yok olmasını,
+s) Toprak veri tabanı: Arazi ve toprak kaynaklarının nitelikleri ile birlikte belirlenerek
+kayıt altına alındığı veri tabanını,
+ş) (Mülga: 19/4/2018-7139/41 md.)
+t) (Ek: 31/1/2007-5578/1 md.; Mülga: 19/4/2018-7139/41 md.)
+u) (Ek: 30/4/2014-6537/3 md.) Yan sınai işletme: Yeter gelirli tarımsal arazilere ait
+ürün depolama, koruma, işleme ve pazarlama gibi faaliyetlere yönelik tesisleri,
+ifade eder.
+
+İKİNCİ BÖLÜM
+Arazi Mülkiyet Hakkının Kullanımı ve Toprak Koruma Kurulu
+Arazi mülkiyet hakkının kullanım esası
+MADDE 4 - Devletin hüküm ve tasarrufu altında ve Hazinenin özel mülkiyetinde olan
+araziler ile kamu kurumlarına, gerçek ve tüzel kişilere ait olan arazilerin mülkiyet hakkı
+kullanılırken toprağın; bitkisel üretim fonksiyonu, endüstriyel, sosyo-ekonomik ve ekolojik
+işlevlerinin tamamen, kısmen veya geçici olarak engellenmemesi amacıyla araziyi kullananlar, bu
+Kanunun öngördüğü tedbirleri almakla yükümlüdür.
+
+Toprak Koruma Kurulu
+MADDE 5 - Her ilde, valinin başkanlığında, ildeki tarımdan sorumlu birim amiri
+tarafından başkan yardımcılığı ve sekretarya hizmetleri görevi yürütülmek üzere, ilde plân
+yapma yetkisine sahip kamu kurum ve kuruluşları ile üniversitelerden, üç birimin ve Maliye
+Bakanlığının ildeki üst düzey temsilcisi ile plânlama ve/veya toprak koruma konularında
+ulusal ölçekte faaliyette bulunan kamu kurumu niteliğini haiz meslek kuruluşları ile sivil
+toplum kuruluşlarının yerel temsilcilerinden üç kişi olmak üzere Kurul oluşturulur. Kurulun
+gündeminde bulunan araziler özel kanunlarla koruma altına alınmış alanlar, Devlet Su İşleri
+Genel Müdürlüğünün proje alanı veya 22.11.1984 tarihli ve 3083 sayılı Sulama Alanlarında
+Arazi Düzenlenmesine Dair Tarım Reformu Kanununa göre uygulama alanı ilân edilen
+yerlerden ise bu alanlarda uygulama yapan birimin yetkili temsilcisi de Kurula dâhil edilir.
+Kurulun kuruluşu, çalışma usûl ve esasları Bakanlık tarafından hazırlanacak yönetmelikle
+belirlenir.
+
+Kurulun görevleri
+MADDE 6 - Kurulun görevleri aşağıda belirtilmiştir:
+a) Arazi kullanılan tüm faaliyetlerde, arazinin korunması, geliştirilmesi ve verimli
+kullanılmasına yönelik inceleme, değerlendirme ve izleme yapmak, ortaya çıkan olumsuzlukları
+belirlemek, toprak korumayı ve bununla ilgili sorunları giderici önlemleri almak, geliştirmek,
+uygulanmasını sağlamak için görüş oluşturmak.
+b) Arazi kullanımını gerektiren tüm girişimleri yönlendirmek üzere, yerel plân veya
+projelerin uygulanması amacıyla takibini yapmak.
+c) Toprak koruma önlemlerinin yerine getirilmesi sürecini yerel ölçekte izlemek,
+değerlendirmek ve çözümleyici öneriler geliştirmek, hazırlanacak toprak koruma ve arazi
+kullanım plânları doğrultusunda, yerel ölçekli yıllık iş programları için görüş oluşturmak ve
+uygulamaya konulmasının takibini yapmak.
+ç) Ülkesel, bölgesel veya yerel ölçekli yapılan plânlar arasındaki uyumu denetlemek.
+d) Kanunda yer alan konularla ilgili başvuruları almak ve ilgililere aktarmak.
+e) Kanunla verilen diğer görevleri yapmak.
+
+ÜÇÜNCÜ BÖLÜM
+Toprak ve Arazi Varlığının Belirlenmesi
+Toprak ve arazi varlığının belirlenmesine ilişkin esaslar
+MADDE 7 - Bakanlık, toprak koruma ve kullanmaya yönelik farklı sistemler kullanarak
+arazi ve toprakla ilgili sınıflamaları ve haritaları yapar veya yaptırır.
+Toprak ve arazi varlığının belirlenmesi, sınıflandırılması, etüt, analiz ve sınıflama ile
+ilgili standart oluşturulması, harita ve veri tabanının hazırlanması ve kullanıcıların hizmetine
+sunulmasına ilişkin usûl ve esaslar, Bakanlıkça hazırlanacak yönetmelikle belirlenir.
+
+Tarım arazilerinin sınıflandırılması, asgari tarımsal arazi büyüklüklerinin
+belirlenmesi1
+MADDE 8 - (Değişik: 31/1/2007-5578/2 md.)
+Tarım arazileri; doğal özellikleri ve ülke tarımındaki önemine göre, nitelikleri
+Bakanlık tarafından belirlenen mutlak tarım arazileri, özel ürün arazileri, dikili tarım arazileri
+ve marjinal tarım arazileri olarak sınıflandırılır. Ayrıca Bakanlık tarım arazilerinin korunması,
+geliştirilmesi ve kullanımı ile ilgili farklı sınıflandırmalar yapabilir.
+(Değişik fıkra: 30/4/2014-6537/4 md.) Asgari tarımsal arazi büyüklüğü, bölge ve
+yörelerin toplumsal, ekonomik, ekolojik ve teknik özellikleri gözetilerek Bakanlık tarafından
+belirlenir. Belirlenen asgari büyüklüğe erişmiş tarımsal araziler, bölünemez eşya niteliği
+kazanmış olur.
+
+1 30/4/2014 tarihli ve 6537 sayılı Kanunun 4 üncü maddesiyle bu maddenin başlığı “Tarım
+arazilerinin sınıflandırılması ve arazi parsel büyüklüklerinin belirlenmesi” iken metne işlendiği
+şekilde değiştirilmiştir.
+
+(Değişik fıkra: 30/4/2014-6537/4 md.) Asgari tarımsal arazi büyüklüğü; mutlak tarım
+arazileri, marjinal tarım arazileri ve özel ürün arazilerinde 2 hektar, dikili tarım arazilerinde
+0,5 hektar, örtü altı tarımı yapılan arazilerde 0,3 hektardan küçük belirlenemez. Bakanlık
+asgari tarımsal arazi büyüklüklerini günün koşullarına göre artırabilir. Tarım arazileri
+Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez, Hazine
+taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz. Ancak,
+tarım dışı kullanım izni verilen alanlar veya çay, fındık, zeytin gibi özel iklim ve toprak
+ihtiyaçları olan bitkilerin yetiştiği alanlarda arazi özellikleri nedeniyle belirlenen asgari
+tarımsal arazi büyüklüğünden daha küçük parsellerin oluşması gerekli olduğu takdirde,
+Bakanlığın uygun görüşü ile daha küçük parseller oluşturulabilir. (Ek cümle: 19/4/2018-
+7139/40 md.) Yatırım programında yer alan kamu yatırımı projeleri muhtevasında yapılan
+zorunlu ifraz işlemlerinde Bakanlık onayı aranmaz.
+(Mülga fıkra: 30/4/2014-6537/4 md.)
+
+Yeter gelirli tarımsal arazi büyüklüğü2
+MADDE 8 - /A - (Ek: 30/4/2014-6537/5 md.)
+İl ve ilçelerin yeter gelirli tarımsal arazi büyüklükleri bölge farklılıkları göz önünde
+bulundurularak bu Kanuna ekli (1) sayılı listede belirlenmiştir. Tarımsal araziler bu Kanuna ekli
+(1) sayılı listede belirlenen yeter gelirli tarımsal arazi büyüklüklerinin altında ifraz edilemez,
+bölünemez. Tarımsal arazilerin bu niteliği şerh konulmak üzere Bakanlık tarafından ilgili tapu
+müdürlüğüne bildirilir. Yeter gelirli tarımsal arazi büyüklüklerinin hesaplanmasında, aynı kişiye
+ait ve Bakanlıkça aralarında ekonomik bütünlük bulunduğu tespit edilen tarım arazileri birlikte
+değerlendirilir. (Mülga cümle: 28/10/2020-7255/17 md.) Bilimsel gelişmeler ve günün
+koşullarına göre bu Kanuna ekli (1) sayılı listede Cumhurbaşkanı kararı ile değişiklik
+yapılabilir.3
+
+Mirasa konu tarımsal araziler ile tarımsal arazilerin devri4
+MADDE 8 - /B - (Ek: 30/4/2014-6537/5 md.)
+Mirasa konu (…)4 tarımsal arazilerde mülkiyetin devri esastır.
+Mirasçılar arasında anlaşma sağlanması hâlinde, mülkiyeti devir işlemleri mirasın
+açılmasından itibaren bir yıl içinde tamamlanır. Devir işlemlerinin bir yıl içinde
+tamamlanmaması ve 8/C maddesinin ikinci fıkrasına göre dava açılmaması hâlinde, bu
+Kanunun 8/Ç maddesi hükümleri uygulanır.
+(Ek fıkra: 28/10/2020-7255/18 md.) Tarım arazilerinde; ifraz, hisselendirme, pay
+
+2 Bu maddeye bağlı Ek-1 Sayılı Liste için Kanunun sonuna bakınız.
+3 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Bakanlığın teklifi
+üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+4 28/10/2020 tarihli ve 7255 sayılı Kanunun 18 inci maddesi ile 8/B maddesinin başlığında yer alan
+“yeter gelirli” ibaresi madde başlığından, birinci fıkrasında yer alan “tarımsal arazi ve yeter gelirli”
+ibaresi madde metninden çıkarılmıştır.
+
+temliki, elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi, elbirliği mülkiyetinin devri,
+paylı mülkiyet olarak intikal, taksim ve vasıf değişikliği işlemleri Bakanlığın izni ile yapılır.
+
+Devrin yapılacağı mirasçı
+MADDE 8 - /C - (Ek: 30/4/2014-6537/5 md.)
+Mirasçılar, terekede bulunan tarımsal arazi ve yeter gelirli tarımsal arazinin mülkiyeti
+hakkında;
+a) Bir mirasçıya veya yeter gelirli tarımsal arazi büyüklüklerini karşılaması durumunda
+birden fazla mirasçıya devrini,
+b) 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun 373 üncü ve devamı
+maddelerine göre kuracakları aile malları ortaklığına veya kazanç paylı aile malları ortaklığına
+devrini,
+c) Mirasçıların tamamının miras payı oranında hissedarı oldukları 13/1/2011 tarihli ve
+6102 sayılı Türk Ticaret Kanunu hükümlerine göre kuracakları limited şirkete devrini,
+ç) Mülkiyetin üçüncü kişilere devrini,
+kararlaştırabilirler.
+Mirasçılar arasında anlaşma sağlanamadığı takdirde, mirasçılardan her biri yetkili sulh
+hukuk mahkemesi nezdinde dava açabilir. Bu durumda sulh hukuk hâkimi tarımsal arazi veya
+yeter gelirli tarımsal arazi mülkiyetinin;
+a) Kişisel yetenek ve durumları göz önünde tutulmak suretiyle tespit edilen ehil mirasçıya
+tarımsal gelir değeri üzerinden devrine, birden çok ehil mirasçının bulunması hâlinde, öncelikle
+asgari geçimini bu yeter gelirli tarımsal arazilerden sağlayan mirasçıya, bunun bulunmaması
+hâlinde bu mirasçılar arasından en yüksek bedeli teklif eden mirasçıya devrine, ehil mirasçı
+olmaması hâlinde, mirasçılar arasından en yüksek bedeli teklif eden mirasçıya devrine karar verir.
+b) Birden fazla ehil mirasçı olması ve bu mirasçıların miras dışı tarımsal arazilere
+sahip olması durumunda, bu mirasçıların mevcut arazilerini yeter gelirli büyüklüğe ulaştırmak
+veya bu arazilerin ekonomik olarak işletilmesine katkı sağlamak amacıyla hâkim, tarım
+arazilerinin yeter gelir büyüklüğünü aramaksızın bu mirasçılara devrine karar verebilir.
+c) Mirasa konu yeter gelirli tarımsal arazinin kendisine devrini talep eden mirasçı
+bulunmadığı takdirde, hâkim satışına karar verir. Bu suretle yapılacak satış sonucu elde edilen
+gelir, mirasçılara payları oranında paylaştırılır.
+Yeter gelirli tarımsal araziler birden çok yeter geliri sağlayan tarımsal arazi
+büyüklüğüne bölünebiliyorsa, sulh hukuk hâkimi bunlardan her birinin mülkiyetinin, yukarıda
+belirtilen hükümler çerçevesinde mirasçılara ayrı ayrı devrine karar verebilir.
+Ehil mirasçıya ait nitelikler, Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.
+Yeter gelirli tarımsal arazi mülkiyetinin mirasçılardan birine devredilmesinden itibaren
+yirmi yıl içinde bu arazilerden tamamının veya bir kısmının tarım dışı kullanım nedeniyle
+değerinde artış meydana gelmesi durumunda; devir tarihindeki arazinin parasal değeri tarım dışı
+kullanım izni verilen tarihe göre yeniden hesaplanır. Bulunan değer ile arazinin yeni değeri
+arasındaki fark, diğer mirasçılara payları oranında arazinin mülkiyetini devralan mirasçı
+tarafından ödenir.
+
+İhbar yükümlülüğü ve mahkeme tarafından devir yapılması
+MADDE 8 - /Ç - (Ek: 30/4/2014-6537/5 md.)
+Yeter gelirli tarımsal arazi mülkiyetinin 8/B maddesinde belirtilen sürede
+devredilmediğinin kamu kurum veya kuruluşları ile finans kurumları tarafından öğrenilmesi
+hâlinde, durum, bu kurum veya kuruluşlar tarafından derhâl Bakanlığa bildirilir. Bakanlık bu
+Kanun hükümlerinin uygulanması için mirasçılara üç ay süre verir. Verilen süre sonunda
+devir olmaması hâlinde, Bakanlık resen veya bildirim üzerine bu yerlerin istemde bulunan
+ehil mirasçıya, ehil mirasçı olmaması durumunda en fazla teklifi veren istekli mirasçıya devri,
+aksi hâlde üçüncü kişilere satılması için ilgili sulh hukuk mahkemesi nezdinde dava açabilir.
+Sulh hukuk mahkemeleri nezdinde mirasçılar veya Bakanlıkça bu Kanun kapsamında
+açılacak davalar her türlü resim ve harçtan muaftır.
+
+Diğer mirasçıların paylarının ödenmesi
+MADDE 8 - /D - (Ek: 30/4/2014-6537/5 md.)
+Sulh hukuk hâkimi, mülkiyetin devrini uygun bulduğu mirasçıya, diğer mirasçıların
+miras paylarının bedelini mahkeme veznesine depo etmek üzere altı aya kadar süre verir.
+Mirasçı tarafından talep edilmesi hâlinde altı ay ek süre verilebilir. Belirlenen süreler içinde
+bedelin depo edilmemesi ve devir hususunda istekli başka mirasçı bulunmaması durumunda
+sulh hukuk hâkimi, tarımsal arazinin veya yeter gelirli tarımsal arazinin açık artırmayla
+satılmasına karar verir.
+Kendisine yeter gelirli tarımsal arazi mülkiyeti devredilen mirasçılardan, diğer
+mirasçıların paylarının karşılığını öz kaynakları ile ödeyemeyecek durumda olanların bu
+ödemeleri gerçekleştirmek için bankalardan kullanacakları kredilere Bakanlığın ilgili yıl
+bütçesine bu amaçla konulacak ödenekten karşılanmak üzere faiz desteği verilebilir.
+Verilecek kredi miktarı diğer mirasçıların payları karşılığı tutarın toplamından fazla olamaz.
+Bu fıkra uyarınca verilecek kredilere ve yapılacak faiz desteğine ilişkin usul ve esaslar
+Cumhurbaşkanı tarafından belirlenir.5
+
+Taşınırların devri
+MADDE 8 - /E - (Ek: 30/4/2014-6537/5 md.)
+Yeter gelirli tarımsal arazi mülkiyeti kendisine devredilen kişi, bu araziler için zorunlu
+olan araç, gereç ve hayvanların mülkiyetinin gerçek değerleri üzerinden kendisine devredilmesini
+isteyebilir.
+8/C maddesinin birinci fıkrasının (c) bendi hükmü gereğince mirasçılar arasında
+limited şirket kurulması hâlinde yeter gelirli tarımsal araziler için gerekli olan taşınırlar da
+şirket mal varlığına dâhil edilir.
+
+5 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Hazine
+Müsteşarlığının bağlı olduğu Bakanın ve Bakanlığın müşterek teklifi üzerine Bakanlar Kurulu”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+Ölüme bağlı tasarruf ile düzenleme
+MADDE 8 - /F - (Ek: 30/4/2014-6537/5 md.)
+Yeter gelirli tarımsal arazi mülkiyetinin kendisine devredilmesini isteyen ve buna ehil tek
+mirasçı olduğu anlaşılan mirasçının bu konudaki istem hakkı, ölüme bağlı tasarrufla ortadan
+kaldırılamaz. Mirastan çıkarma, mirastan yoksunluk ve mirastan feragat hâlleri saklıdır.
+Birden çok mirasçıda devir koşullarının bulunması hâlinde, kendisine devir yapılacak
+mirasçı ölüme bağlı tasarrufla belirlenebilir. Belirlenen bu mirasçıya itiraz edilmesi durumunda,
+ehil mirasçı sulh hukuk hâkimi tarafından belirlenir.
+
+Yeter gelirli tarımsal arazi yönetiminin tedbiren verilmesi
+MADDE 8 - /G - (Ek: 30/4/2014-6537/5 md.)
+Ayırt etme gücüne sahip olmayan küçük mirasçı bulunması hâlinde hâkim, yeter
+gelirli tarımsal arazilerin yönetimini dava sonuçlanana kadar ehil gördüğü mirasçılardan
+birine veya üçüncü bir kişiye tedbiren verebilir. Bu takdirde, elde edilen tarımsal gelir, işletme
+masrafları düşüldükten sonra mirasçılar arasında payları oranında dağıtılır.
+
+Denkleştirme
+MADDE 8 - /Ğ - (Ek: 30/4/2014-6537/5 md.)
+Kendisine yeter gelirli tarımsal arazi mülkiyeti devredilen mirasçının, devir sebebiyle
+diğer mirasçılara payları karşılığı ödemesi gereken bedel ile miras bırakanın borcu dolayısıyla
+daha önce yeter gelirli tarımsal arazi üzerinde kurulmuş bulunan rehin konusu alacaklar
+birbiriyle denkleştirilir. Bakiye bir tutar kalırsa diğer mirasçılara payları oranında ödenir.
+
+Yan sınai işletme
+MADDE 8 - /H - (Ek: 30/4/2014-6537/5 md.)
+Yeter gelirli tarımsal arazilere sıkı şekilde bağlı bir yan sınai işletme mevcut ise yan
+sınai işletme ile yeter gelirli tarımsal arazilerin mülkiyeti bir bütün olarak istemde bulunan ve
+ehil görülen mirasçıya gerçek değeri üzerinden devredilir.
+Mirasçılardan birinin itiraz etmesi veya birden çok mirasçının kendilerine devir istemesi
+hâlinde sulh hukuk hâkimi yeter gelirli tarımsal arazi ve yan sınai işletmenin ekonomik gelir ve
+bütünlüğünü sürdürme imkânını ve mirasçıların kişisel durumlarını göz önünde bulundurarak
+yan sınai işletmenin birlikte veya ayrı olarak devrine ya da satışına karar verir.
+8/C maddesinin birinci fıkrasının (c) bendi gereğince mirasçılar arasında limited şirket
+kurulması hâlinde yeter gelirli tarımsal arazilere sıkı şekilde bağlı olan yan sınai işletme de
+şirketin mal varlığına dâhil edilir.
+
+İstisnalar ve muafiyetler
+MADDE 8 - /I - (Ek: 30/4/2014-6537/5 md.)
+8/C maddesinin birinci fıkrasının (c) bendi gereğince kurulacak limited şirketlerin
+tescil işlemi tamamlanıncaya kadar yapılacak işlemler harçlardan, bu işlemlerle ilgili
+düzenlenecek kâğıtlar damga vergisinden müstesnadır.
+
+Türk Ticaret Kanununda yer alan limited şirket kurulmasına ilişkin sermaye ve diğer
+şartlar, 8/C maddesinin birinci fıkrasının (c) bendi gereğince kurulacak limited şirketler için
+aranmaz.
+Tarımsal arazilerin mülkiyetinin devri konusunda mirasın açılmasından itibaren bir yıl
+içinde anlaşmaları durumunda mirasçılar, bu taşınmazların devri ile ilgili yapılacak işlemlere
+ilişkin harçlardan ve bu işlemlerle ilgili düzenlenecek kâğıtlara ilişkin damga vergisinden muaftır.6
+(Ek fıkra: 28/10/2020-7255/19 md.) Tarım arazilerinde asgari tarımsal arazi
+büyüklüğünün altındak_ payların paydaşlara aynen devri halinde paydaşlar, bu taşınmazların
+devri ile ilgili yapılacak işlemlere ilişkin harçlardan, bu işlemlerle ilgili düzenlenecek
+kâğıtlara ilişkin damga vergisinden ve tapu döner sermaye ücretlerinden muaftır.
+
+Önalım hakkı
+MADDE 8 - /İ - (Ek: 30/4/2014-6537/5 md.)
+8/C maddesinin birinci fıkrasının (b) bendi uyarınca aile malları ortaklığı veya kazanç
+paylı aile malları ortaklığı kurulduğu takdirde, ortaklardan birinin payını üçüncü bir kişiye
+satması hâlinde, diğer ortaklar önalım hakkına sahiptir.
+(Mülga fıkra: 28/10/2020-7255/20 md.)
+Önalım hakkının kullanılmasında Türk Medenî Kanunu hükümleri uygulanır.
+
+Sona erme ve tasfiye
+MADDE 8 - /J - (Ek: 30/4/2014-6537/5 md.)
+8/C maddesinin birinci fıkrasına göre kurulan aile malları ortaklığının, kazanç paylı
+aile malları ortaklığının veya limited şirketin; herhangi bir nedenle sona ermesi ve tasfiye
+olması hâlinde, bu ortaklıklara veya limited şirketlere ait tarımsal araziler, yeter gelirli
+tarımsal arazi büyüklüklerinin altında kalacak şekilde bölünemez.
+
+Tarımsal arazi edindirme iş ve işlemleri
+MADDE 8 - /K - (Ek: 30/4/2014-6537/5 md.)
+Bakanlık, yeter gelirli tarımsal arazileri ekonomik, ekolojik ve sosyal açıdan azami
+oranda verimli kılmak ve yeter gelirli tarımsal arazi büyüklüğünü artırmak için gerekli
+tedbirleri alır. Ayrıca; tarım arazilerinin değerinin tespiti, kredi temini, ortakçılık, yarıcılık,
+kiracılık işlerinin düzenlenmesi, kira bedellerinin tespiti ve üretime yönlendirilmesi, arz talep
+listelerinin oluşturulması, alıcı, satıcı ve kiracıların anlaşmaları konusunda doğrudan aracılık
+yapılması, bu alanda ilgili kamu idareleri ile yürütülecek politikalar konusunda iş birliği
+yapılması ve kredi işlemlerine teknik destek sağlanması gibi iş ve işlemleri yapar veya
+yaptırır. Bu Kanunun uygulanması ile ilgili olarak, ihtiyaç duyulması hâlinde, yeter gelirli
+
+6 28/10/2020 tarihli ve 7255 sayılı Kanunun 19 uncu maddesi ile 8/I maddesinin üçüncü fıkrasında yer
+alan “Yeter gelirli tarımsal arazilerin mülkiyetinin devri konusunda anlaşmaları” ibaresi “Tarımsal
+arazilerin mülkiyetinin devri konusunda mirasın açılmasından itibaren bir yıl içinde anlaşmaları”
+şeklinde değiştirilmiştir.
+
+tarımsal arazi büyüklüğünün altındaki tarımsal arazileri yeter gelirli tarımsal arazi
+büyüklüğüne çıkarmak veya mülkiyetten kaynaklanan ihtilafları gidermek amacıyla
+kamulaştırma, alım ile satım işlemleri Bakanlığın talebi üzerine Maliye Bakanlığınca ilgili
+mevzuatına göre yerine getirilir. Kamulaştırma ve alım işlemleri gerektiğinde Hazineye ait
+taşınmazların trampası suretiyle de yapılabilir.
+(Ek:23/3/2023-7442/37 md.) Bakanlık; Hazinenin özel mülkiyetinde veya Devletin
+hüküm ve tasarrufu altında bulunan tarım arazileri hariç olmak üzere, mülkiyeti gerçek ve
+tüzel kişilere ait olup, hisselilik, mülkiyet ihtilafı, parçalılık, tarımsal faaliyete son verilmesi,
+göç veya başka bir sebeple üst üste iki yıl süreyle işlenmeyen tarım arazilerini tespit ederek,
+ekonomiye kazandırılması ve kamu yararına kullanılması için bu arazileri kira geliri arazi
+maliklerine ait olmak üzere ve arazinin vasfının değiştirilmemesi şartıyla sezonluk olarak
+rayiç bedelden aşağı olmamak üzere kiraya verir.
+(Ek:23/3/2023-7442/37 md.) Kiralama öncelikli olarak kiraya verilecek arazinin
+bulunduğu yerleşim yerinde ikamet edenlere ya da 18/4/2006 tarihli ve 5488 sayılı Tarım
+Kanununun 3 üncü maddesinde belirtilen sivil toplum kuruluşlarına ve meslek odalarına
+yapılır. Bakanlık kiralama işlemlerini genel hükümlere göre taşınmaz ticareti yetki belgesine
+sahip işletme ve sözleşmeli işletmelere de yaptırabilir. Bu maddeye göre kiralanan araziler
+Bakanlıkça belirlenen kayıt sistemlerine kaydedilir ve kiracılar bu arazilerle ilgili tarımsal
+desteklerden yararlandırılır.
+(Ek:23/3/2023-7442/37 md.) Kiralanacak arazilerin rayiç kira bedelleri ve
+kiralayanların yetiştirebilecekleri ürün veya ürün grupları Bakanlık il veya ilçe müdürlükleri
+tarafından mahallinde veya elektronik ortamda ilan edilir. Öncelikli gruplardan birden fazla
+istekli çıkması halinde en yüksek teklifi verene kiralanır. Öncelikli gruplardan istekli
+çıkmaması halinde diğer isteklilerden en yüksek teklifi verene kiralanır.
+(Ek:23/3/2023-7442/37 md.) Arazi maliklerine veya hak sahiplerine ulaşılamaması
+halinde kira bedelleri araziye özgülenerek bir kamu bankası nezdinde açılacak vadeli hesaba
+yatırılarak nemalandırılır. Mülkiyeti ihtilaflı arazilerde ihtilafın giderilmesi halinde biriken
+kira geliri ve ferileri hak sahiplerine dağıtılır.
+(Ek:23/3/2023-7442/37 md.) Kiralanacak arazilerin; sınıfı, parsel büyüklüğü,
+verimliliği gibi hususlar dikkate alınarak tespit edilmesi, kiralama usul ve esasları, kira
+bedellerinin ve sürelerinin belirlenmesi ile kiralamaya ve kira gelirlerinin hak sahiplerine
+dağıtımı ile bu maddenin uygulanmasına ilişkin diğer hususlar Bakanlık tarafından çıkarılan
+yönetmelikle belirlenir.
+
+DÖRDÜNCÜ BÖLÜM
+Toprakların Korunması ve Arazi Kullanımı
+Toprakların korunması
+MADDE 9 - Arazi kullanımını gerektiren her türlü girişim ve yatırım sürecinde
+toprakların korunması, doğal ve yapay olaylar sonucu meydana gelen toprak kayıplarının
+
+önlenmesi; arazi kullanım plânları, tarımsal amaçlı arazi kullanım plân ve projeleri ile toprak
+koruma projelerinin uygulamaya konulması ile sağlanır.
+
+Arazi kullanım plânlarının yapılması
+MADDE 10 - Arazi kullanım plânları ile ülkesel ve bölgesel plânlamalara temel
+oluşturan ve diğer fizikî plânlamalara veri teşkil eden; su potansiyeli, toprak veri tabanı ve
+haritaları esas alınarak çevre öncelikli sürdürülebilir kalkınma ilkesi doğrultusunda toprağın
+niteliği, arazinin yeteneği ve diğer arazi özellikleri gözetilerek uygun arazi kullanım şekilleri
+belirlenir.
+Bakanlık tarafından hazırlanan veya hazırlattırılan arazi kullanım plânlarında; yerel,
+bölgesel ve ülkesel ölçekte tarım arazileri, mera arazileri, orman arazileri, özel kanunlarla
+belirlenen alanlar, yerleşim alanları, sosyal ve ekonomik amaçlı altyapı tesisleri ile diğer arazi
+kullanım şekillerine yer verilir. Bakanlık, arazi kullanım plânlarının hazırlanmasını ihtiyaca
+göre valiliklere devredebilir.
+Özel kanunlarla belirlenen veya belirlenecek alanlarda, ilgili kanun hükümleri saklı
+kalmak kaydı ile arazi kullanım plânlarında yer verilen kullanım şekilleri, ilgili kanunlar
+kapsamında sorumlu bakanlık veya kuruluşlar tarafından değerlendirilir.
+Tarım arazileri, bu Kanunda belirtilen istisnalar hariç olmak üzere, arazi kullanım
+plânlarında belirtilen amaçları dışında kullanılamaz.
+Arazi kullanım plânının hazırlanmasına ilişkin usûl ve esaslar, Bakanlık tarafından
+hazırlanacak yönetmelikle belirlenir.
+
+Tarımsal amaçlı arazi kullanım plân ve projelerinin hazırlanması
+MADDE 11 - Tarım arazilerinde toprağın kimyasal, fiziksel ve biyolojik özelliklerinin
+sürekli üretim sağlayacak şekilde korunarak kullanımı için, en az bir ziraat mühendisi
+sorumluluğunda tarımsal amaçlı arazi kullanım plân veya projeleri, valilikler tarafından hazırlanır
+veya hazırlattırılır.
+Tarımsal amaçlı arazi kullanım plân veya projelerinin hazırlanmasında, çiftçilerin ve
+arazi sahiplerinin görüşleri alınır.
+Arazi sahipleri ve araziyi kullananlar, hazırlanan plân ve projelere uymakla yükümlüdür.
+Tarımsal amaçlı arazi kullanım plân veya projelerinin uygulanacağı arazinin sınırları,
+büyüklüğü ve uygulama ile ilgili diğer usûl ve esaslar, Bakanlık tarafından hazırlanacak
+yönetmelikle belirlenir.
+
+Toprak koruma projelerinin hazırlanması
+MADDE 12 - Toprağın bulunduğu yerde, doğal fonksiyonlarını sürdürebilmesinin
+sağlanması amacıyla korunması esastır.
+Kentsel yerleşim amaçlı imar plânı bulunan yerler dışında, zorunlu olarak kazı veya
+dolgu gerektiren herhangi bir arazi kullanım faaliyeti sonucu toprak kayıpları ve arazi
+bozulmaları söz konusu ise araziyi kullananlar tarafından toprak koruma projeleri hazırlanır
+
+veya hazırlattırılır.
+Toprak koruma projeleri arazi bozulmalarını ve toprak kayıplarını önlemek için
+gerekli olan sekileme, çevirme, koruma duvarı, bitkilendirme, arıtma, drenaj gibi imalat,
+inşaat ve kültürel tedbirleri içerir, en az bir ziraat mühendisi sorumluluğunda hazırlanır ve
+valilik tarafından onaylanır.
+Heyelan, sel ve rüzgar gibi doğal olaylar sonucu meydana gelen toprak kayıplarını
+önlemek için valilikler, toprak koruma projelerini hazırlatarak uygulamasını yapar veya yaptırır.
+Toprak koruma projelerinin gerekliliği, hazırlanması, uygulanması, yetki ve
+sorumlulukların belirlenmesi ile ilgili usûl ve esaslar, Bakanlıkça hazırlanacak yönetmelikle
+belirlenir.
+
+Tarım arazilerinin amaç dışı kullanımı
+MADDE 13 - Mutlak tarım arazileri, özel ürün arazileri, dikili tarım arazileri ile sulu tarım
+arazileri tarımsal üretim amacı dışında kullanılamaz. Ancak, alternatif alan bulunmaması ve
+Kurulun uygun görmesi şartıyla;
+a) Savunmaya yönelik stratejik ihtiyaçlar,
+b) Doğal afet sonrası ortaya çıkan geçici yerleşim yeri ihtiyacı,
+c) Petrol ve doğal gaz arama ve işletme faaliyetleri,
+ç) İlgili bakanlık tarafından kamu yararı kararı alınmış madencilik faaliyetleri,
+d) Bakanlıklarca kamu yararı kararı alınmış plân ve yatırımlar,
+e) (Ek: 31/1/2007-5578/3 md.) Kamu yararı gözetilerek yol altyapı ve üstyapısı
+faaliyetlerinde bulunacak yatırımlar,
+f) (Ek: 26/3/2008-5751/1 md.) Enerji Piyasası Düzenleme Kurumunun talebi üzerine
+20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanunu uyarınca yenilenebilir enerji kaynak
+alanlarının kullanımı ile ilgili yatırımları,
+g) (Ek: 26/3/2008-5751/1 md.) Jeotermal kaynaklı teknolojik sera yatırımları,
+İçin bu arazilerin amaç dışı kullanım taleplerine, toprak koruma projelerine uyulması
+kaydı ile Bakanlık tarafından izin verilebilir. (Ek cümle: 31/1/2007-5578/3 md.) Bakanlık bu
+yetkisini valiliklere devredebilir.
+Mutlak tarım arazileri, özel ürün arazileri, dikili tarım arazileri ile sulu tarım arazileri
+dışında kalan tarım arazileri; toprak koruma projelerine uyulması kaydı ile valilikler
+tarafından tarım dışı kullanımlara tahsis edilebilir.
+Tarımsal amaçlı yapılar için, projesine uyulması şartıyla ihtiyaç duyulan miktarda her
+sınıf ve özellikteki tarım arazisi valilik izni ile kullanılır.
+(Ek fıkra: 28/10/2020-7255/21 md.) İmar planlarında tarımsal niteliği korunacak alan
+olarak ayrılan yerler ile kamu yararı kararı alınarak tarım dışı amaçla kullanım izni verilen
+yerler, yeniden izin alınmaksızın bu amaç dışında kullanılamaz ve planlanamaz. (İptal ikinci
+cümle: Anayasa Mahkemesinin 5/4/2023 Tarihli ve E: 2020/103, K: 2023/68 Sayılı
+Kararı ile.)
+Birinci fıkranın (c) ve (ç) bentleri kapsamında izin alan işletmeciler, faaliyetlerini
+
+çevre ve tarım arazilerine zarar vermeyecek şekilde yürütmekle ve kendilerine tahsis edilen
+yerleri tahsis süresi bitiminde eski vasfına getirmekle yükümlüdürler.
+Bu madde kapsamında valiliklerce verilen kararlara yapılan itirazlar, Bakanlık
+tarafından değerlendirilerek karara bağlanır.
+Tarım arazilerinin korunması ve amaç dışı kullanımına dair uygulamaların usûl ve
+esasları yönetmelikle düzenlenir.7
+
+Tarımsal potansiyeli yüksek büyük ovaların belirlenmesi ve korunması
+MADDE 14 - Tarımsal üretim potansiyeli yüksek, erozyon, kirlenme, amaç dışı veya
+yanlış kullanımlar gibi çeşitli nedenlerle toprak kaybı ve arazi bozulmalarının hızlı geliştiği
+ovalar; kurul veya kurulların görüşü alınarak, Cumhurbaşkanı kararı ile büyük ova koruma
+alanı olarak belirlenir.8
+Büyük ovalardaki koruma ve geliştirme amaçlı tarımsal altyapı projeleri ve arazi
+kullanım plânları, kurul veya kurulların görüşleri dikkate alınarak, Bakanlık ve valilikler
+tarafından öncelikle hazırlanır veya hazırlattırılır.
+Büyük ovalarda bulunan tarım arazileri hiçbir surette amacı dışında kullanılamaz.
+Ancak alternatif alan bulunmaması, kurul veya kurullarca uygun görüş bildirilmesi şartıyla;
+a) Tarımsal amaçlı yapılar,
+b) Bakanlık ve talebin ilgili olduğu Bakanlıkça ortaklaşa kamu yararı kararı alınmış
+faaliyetler,
+İçin tarım dışı kullanımlara Bakanlıkça izin verilebilir.
+(Ek fıkra: 28/10/2020-7255/22 md.) Bu madde kapsamında izin verilen yerler, yeniden
+izin alınmaksızın bu amaç dışında kullanılamaz ve planlanamaz. (İptal ikinci cümle: Anayasa
+Mahkemesinin 5/4/2023 tarihli ve E: 2020/103, K: 2023/68 sayılı Kararı ile.)
+ Büyük ova koruma alanlarının belirlenmesi ve korunmasına ilişkin usûl ve esaslar
+yönetmelikle düzenlenir.9
+
+Erozyona duyarlı alanların belirlenmesi ve korunması
+MADDE 15 - Doğal ve yapay olaylar sonucu toprağın fiziksel, kimyasal ve biyolojik
+özellikleri bozulmuş veya bozulma ihtimali olan araziler ile millenmeden önemli derecede
+etkilenen baraj, gölet ve benzeri rezervuar havzalarında toprak kayıplarını ve millenmeyi
+önlemek, koruma, geliştirme ve kullanmayı esas alan teknikleri yerleştirmek amacıyla,
+Cumhurbaşkanı kararı ile erozyona duyarlı alanlar belirlenir.10
+
+7 30/4/2014 tarihli ve 6537 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “tüzükle” ibaresi
+“yönetmelikle” şeklinde değiştirilmiştir.
+8 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “Bakanlığın teklifi
+ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+9 30/4/2014 tarihli ve 6537 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “tüzükle” ibaresi
+“yönetmelikle” şeklinde değiştirilmiştir.
+10 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu fıkrada yer alan “kurulların görüşü
+alınarak, Bakanlığın teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+Erozyona duyarlı arazilerin belirlenmesi ve korunması amacıyla bu arazilerin kullanım
+plânları ve altyapı projeleri; kurulların görüşleri dikkate alınarak, ilgili kamu kurum ve
+kuruluşlarının hizmet alanları ile sınırlı olmak kaydıyla, kamu kuruluşlarının birbirlerine bağlı
+hizmetlerini aksatmayacak şekilde bir uyum ve zaman plânlaması içerisinde, havza bazında
+ilgili kamu kuruluşları tarafından yapılır veya yaptırılır. Bu amaçla yapılan veya yaptırılan
+rüzgar perdeleri, sekiler, sel oyuntusu önleme yapıları gibi fizikî yapıların korunması, arazi
+sahiplerine aittir.
+Bakanlık; kurak, yarı kurak ve az yağışlı yerlerde iklim değişiklikleri ve insan
+faaliyetleri de dâhil olmak üzere, çeşitli nedenlerle toprak bozulması görülen çölleşmeye
+maruz alanlarda ilgili kamu kurum ve kuruluşları, sivil toplum örgütleri ile işbirliği yaparak
+gerekli önlemleri alır veya aldırır.
+Erozyona duyarlı alanların belirlenmesi ve korunmasına ilişkin usûl ve esaslar,
+Bakanlık tarafından hazırlanacak yönetmelikle belirlenir.
+
+Toprak kirliliğinin izlenmesi ve önlenmesi
+MADDE 16 - Valilikler, tarımsal veya tarım dışı faaliyetlerden kaynaklanan toprağı
+kirletici ve bozucu olumsuzlukların izlenmesi ve giderilmesi için gerekli önlemleri alır ve
+aldırır.
+Toprağı kirletenlere 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun ilgili hükümleri
+uygulanır.
+
+Arazi toplulaştırması ve dağıtımı
+MADDE 17 - (Mülga: 19/4/2018-7139/41 md.)
+
+BEŞİNCİ BÖLÜM
+Özendirme, Denetim, Yaptırımlar, Gelir ve Giderler
+Özendirme
+MADDE 18 - Toprağın korunması, üretim gücünün geliştirilerek sürdürülmesi, arazinin
+iyileştirilmesine yönelik toprak ıslahı ve tarla içi geliştirme etkinlikleri, yeteneğe uygun arazi
+kullanımı konularında projeye dayalı yatırım yapan, toprak işleme, sulama ve yetiştirme
+tekniklerini uygulayan üreticilere, tarımsal desteklemelerde öncelik verilir, yatırımları
+Bakanlık imkânlarıyla desteklenir.
+
+Denetim
+MADDE 19 - Bu Kanunun uygulamasında denetim görevini Bakanlık, valilikler veya
+kurullar yapar ya da yaptırır. Bu Kanunda yer alan projeler ve izinlerle ilgili denetimler, proje
+ve izin onaylarının verilmesinden itibaren iki yıl içerisinde tamamlanarak sonucundan
+Bakanlık ve kurullara bilgi verilir. Uygulamada etüt, sınıflama, analiz gibi toprak ve arazi ile
+ilgili teknik konularda denetim görevini Bakanlık yapar veya yaptırır. Kurul üyesi kurum veya
+kuruluşlar ile sivil toplum kuruluşları tespit ettikleri arazi bozulmaları ve toprak kayıpları ile
+verilen iznin amacına uygun olmayan faaliyetler hakkında valiliklere ihbarda bulunabilir.
+Valilikler konuyu inceleyerek, sonucu en geç bir ay içerisinde Bakanlığa ve ihbarı yapana
+bildirmek zorundadır.11
+(Ek fıkra:28/10/2020-7255/23 md.) Yapılan denetimler sonucu aykırılık tespit
+edilmesi halinde bu durum, tapu ayıtlarının beyanlar hanesine kaydedilmek üzere ilgili
+idaresince tapu dairesine en geç yedi gün içinde yazılı olarak bildirilir. Aykırılığın
+giderildiğine dair ilgili idaresince tapu dairesine bildirim yapılmadan beyanlar hanesindeki
+kayıt kaldırılamaz.
+
+Tarımsal amaçlı arazi kullanım plan ve projelerine aykırılık durumunda uygulanacak
+cezalar ve yükümlülükler
+MADDE 20 - (Başlığı ile Birlikte Değişik: 28/10/2020-7255/24 md.)
+Tarımsal amaçlı arazi kullanımlarında, tarımsal amaçlı arazi kullanım plân ve
+projelerine uyulması zorunludur.
+Bu plân veya projelere aykırı hareket edilmesi halinde valilikçe resen tespit
+yaptırılarak sorumlulara; bin Türk Lirasından az olmamak kaydıyla bozulan arazinin her
+metrekaresi için on Türk Lirası idarî para cezası uygulanarak projeye uygunluk sağlanması
+için azami iki ay süre verilir. Büyük ova koruma alanlarındaki bu cezalar iki katı olarak
+uygulanır. Bu sürenin sonunda aykırı kullanımların devam etmesi durumunda; valilikçe
+faaliyet durdurulur ve birinci cümlede belirtilen idarî para cezası üç katı olarak uygulanır.
+
+11 28/10/2020 tarihli ve 7255 sayılı Kanunun 23 üncü maddesi ile 19 uncu maddesinin birinci fıkrasının ikinci
+cümlesinde yer alan “projelerle ilgili denetim örnekleme yöntemiyle yapılır ve” ibaresi “projeler ve izinlerle
+ilgili denetimler, proje ve izin onaylarının verilmesinden itibaren iki yıl içerisinde tamamlanarak” şeklinde,
+dördüncü cümlesinde yer alan “ilgili” ibaresi “verilen iznin amacına uygun olmayan” şeklinde, beşinci
+cümlesinde yer alan “üç ay içerisinde,” ibaresi “bir ay içerisinde Bakanlığa ve” şeklinde değiştirilmiştir.
+
+İzinsiz bütün yapılar, masrafları Bakanlıkça karşılanmak kaydıyla, bir ay içinde belediyeler
+veya il özel idarelerince yıkılır ve taşınmazlar tarımsal üretime uygun hale getirilir. Arazinin
+tarımsal üretime uygun hale getirilmesi için yıkım ve temizleme masrafları sorumlulardan
+Bakanlıkça genel hükümlere göre tahsil edilir.
+Hakkında yıkım kararı alınmış olmasına rağmen bir ay içinde belediye veya il özel
+idarelerince yıkılmayan yapılar, yıkım masrafları Bakanlıkça karşılanmak üzere Bakanlıkça
+yıkılabilir veya yıktırılabilir. Yıkım masrafları %100 fazlası ile ilgili belediye veya il özel
+idaresinden tahsil edilir. Bu şekilde tahsil edilememesi halinde ilgisine göre Hazine ve Maliye
+Bakanlığı veya İller Bankası Anonim Şirketi tarafından belediye veya il özel idaresinin
+2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi
+Gelirlerinden Pay Verilmesi Hakkında Kanun gereğince aktarılan paylarından kesilerek, genel
+bütçeye gelir kaydedilmek üzere takip eden ayın sonuna kadar Bakanlık merkez muhasebe
+birimi hesabına aktarılır.
+Verilen iki aylık süre sonunda valiliğin yaptıracağı tespitlerle plân veya projelere
+uyulduğu ve arazi tahribatının durduğu ve tarımsal üretime uygun hale getirildiği belirlenirse
+sınırlama ve hak mahrumiyetleri ortadan kalkar.
+
+Tarım arazilerinin amacı dışında kullanılmasına ve toprak koruma projelerine
+uyulmamasına ilişkin cezalar ve yükümlülükler
+MADDE 21 - (Başlığı ile Birlikte Değişik: 28/10/2020-7255/25 md.)
+Tarımsal amaçlı yapılarda ve tarım dışı arazi kullanımlarında izin alınması ve toprak
+koruma projelerine uyulması zorunludur.
+Tarımsal amaçlı yapılara ve tarım dışı arazi kullanımına izinsiz başlanılması, alınan
+izne uygun kullanılmaması veya hazırlanan toprak koruma projelerine uyulmaması halinde,
+aşağıdaki işlemler gerçekleştirilir ve yaptırımlar uygulanır:
+a) Arazi kullanımı için izinsiz işe başlanılması ya da alınan izne uygun kullanılmaması
+halinde; valilik işi tamamen durdurur, yapılan iş tamamlanmış ise kullanımına izin verilmez.
+Arazi sahibine veya araziyi bozana bin Türk Lirasından az olmamak kaydıyla, kullanılan veya
+zarar verilen alanın her metrekaresi için on Türk Lirası idarî para cezası verilir. Büyük ova
+koruma alanlarında bu ceza iki katı olarak uygulanır. İdarî para cezasının tebliğinden itibaren
+bir ay içinde başvurularak 13 üncü veya 14 üncü maddelerdeki izinlerin alınması şartıyla işin
+tamamlanmasına, bitmiş ise kullanımına izin verilebilir. Başvuru yapmayanlara veya izin
+talepleri uygun görülmeyenlere, izinsiz bütün yapılarını yıkması ve araziyi tarımsal üretime
+uygun hale getirmesi için iki ay süre verilir. Verilen süre içinde izinsiz yapıların yıkılmadığı
+ve arazinin tarımsal üretime uygun hale getirilmediğinin Bakanlık birimlerince tespit edilmesi
+durumunda; valilikçe faaliyet durdurulur ve bu bendin ikinci cümlesinde belirtilen idarî para
+cezası üç katı olarak uygulanır. İzinsiz bütün yapılar, masrafları Bakanlıkça karşılanmak
+kaydıyla, bir ay içinde belediyeler veya il özel idarelerince yıkılır ve taşınmazlar tarımsal
+üretime uygun hale getirilir. Arazinin tarımsal üretime uygun hale getirilmesi için yıkım ve
+temizleme masrafları sorumlulardan Bakanlıkça genel hükümlere göre tahsil edilir.
+
+b) Toprak koruma projelerine aykırı hareket edilmesi halinde valilik tarafından bin
+Türk Lirasından az olmamak kaydıyla, bozulan arazinin her metrekaresi için on Türk Lirası
+idarî para cezası uygulanır ve projeye uygunluk sağlanması için azami iki ay süre verilir.
+Büyük ova koruma alanlarında bu ceza iki katı olarak uygulanır. Bu sürenin sonunda aykırı
+kullanımların devam etmesi durumunda; valilikçe faaliyet durdurulur, verilen kullanım izni
+iptal edilir ve bu bendin birinci cümlesinde belirtilen idarî para cezası üç katı olarak
+uygulanır. İzinsiz bütün yapılar, masrafları Bakanlıkça karşılanmak kaydıyla, bir ay içinde
+belediyeler veya il özel idarelerince yıkılır ve taşınmazlar tarımsal üretime uygun hale
+getirilir. Arazinin tarımsal üretime uygun hale getirilmesi için yıkım ve temizleme masrafları
+sorumlulardan Bakanlıkça genel hükümlere göre tahsil edilir.
+İkinci fıkranın (a) ve (b) bentleri uyarınca hakkında yıkım kararı alınmış olmasına
+rağmen bir ay içinde belediye veya il özel idarelerince yıkılmayan yapılar, yıkım masrafları
+Bakanlıkça karşılanmak üzere Bakanlıkça yıkılabilir veya yıktırılabilir. Yıkım masrafları
+%100 fazlası ile ilgili belediye veya il özel idaresinden tahsil edilir. Bu şekilde tahsil
+edilememesi halinde ilgisine göre Hazine ve Maliye Bakanlığı veya İller Bankası Anonim
+Şirketi tarafından belediye veya il özel idaresinin 5779 sayılı Kanun gereğince aktarılan
+paylarından kesilerek, genel bütçeye gelir kaydedilmek üzere takip eden ayın sonuna kadar
+Bakanlık merkez muhasebe birimi hesabına aktarılır.
+Toprak koruma projelerinin hazırlatılmaması, yetersizliği veya zamanında gerekli
+tadilatların yapılmaması sonucu arazi tahribi veya toprak kayıpları olması halinde meydana
+gelecek zararlardan; proje hazırlanmasına gerek olmadığına karar verenler, proje hazırlanmış
+ise projeyi hazırlayan ve onaylayanlar sorumludur.
+Tarım arazilerini, tescili mümkün olmayan fiili hisseler oluşturarak arazinin hisselere
+tekabül ettiği kabul edilen kısımlarının zilyetliğini, bir özel hukuk tüzel kişisinin faaliyeti
+kapsamında bu tüzel kişiyle üyelik veya ortaklık ilişkisi kurarak devretmek veya bu işlere
+aracılık etmek suretiyle arazinin bütünlüğünün bozulmasına ve amacı dışında kullanılmasına
+sebebiyet verenlere bir yıldan üç yıla kadar hapis ve yüz günden bin güne kadar adli para cezası
+verilir. Ayrıca bu tüzel kişi hakkında elli bin Türk Lirasından iki yüz elli bin Türk Lirasına
+kadar idarî para cezası verilir. Tarım arazisinin bütünlüğünün sağlanması ve tarımsal üretime
+uygun duruma getirilmesi halinde, bu fıkra uyarınca kamu davası açılmaz, açılmış olan kamu
+davası düşer, mahkum olunan ceza bütün sonuçlarıyla ortadan kalkar.
+19 uncu ve 20 nci maddeler ile bu maddenin uygulanmasında kusurlu bulunan
+sorumlular, fiillerinin niteliğine göre 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun
+kamu görevlilerine ait hükümleri uyarınca cezalandırılırlar.
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık tarafından çıkarılan
+yönetmelik ile belirlenir.
+
+İdarî cezalara itiraz ve para cezalarının tahsili
+MADDE 22 - (Değişik: 23/1/2008 - 5728/577 md.)
+Bu Kanunda yazılı olan idarî cezalar mahallî mülkî amir tarafından verilir.
+
+Gelir ve giderler
+MADDE 23 - Bu Kanun hükümlerine göre tahsil edilen her türlü gelir ve cezalar, genel
+bütçeye gelir kaydedilir. Kanunun uygulanmasına ilişkin gerekli ödenek Bakanlık bütçesinde
+öngörülür.
+
+ALTINCI BÖLÜM
+Yönetmelikler, Değiştirilen, Geçici ve Son Hükümler12
+Yönetmelikler13
+MADDE 24 - (Değişik: 2/7/2018-KHK/700/170 md.)
+Bu Kanunun uygulanmasına dair yönetmelikler ilgili kurum ve kuruluşların görüşü
+alınarak Bakanlık tarafından yürürlüğe konulur.
+MADDE 25 - (3.5.1985 tarihli ve 3194 sayılı İmar Kanunu ile ilgili olup yerine
+işlenmiştir.)
+MADDE 26 - (21.6.1987 tarihli ve 3402 sayılı Kadastro Kanunu ile ilgili olup
+yerine işlenmiştir.)
+MADDE 27 - (25.2.1998 tarihli ve 4342 sayılı Mera Kanunu ile ilgili olup yerine
+işlenmiştir.)
+
+Ek Madde 1 - (Ek: 31/1/2007-5578/5 md.)
+Bakanlık, bu Kanunun uygulamasında ihtiyaç duyulacak her türlü eğitim faaliyetini
+düzenleyebilir ve eğitim sonrası sertifika verebilir.
+
+Geçici Madde 1 - 11.10.2004 tarihinden önce tarım arazileri; gerekli izinler
+alınmadan tarım dışı amaçlı kullanıma açılmış ve tarımsal bütünlüğü bozmuyor ise söz
+konusu arazinin istenilen amaçla kullanımı için, altı ay içerisinde Bakanlığa müracaat
+edilmesi, hazırlanacak toprak koruma projesine uyulması ve tarım dışı kullanılan tarım
+arazilerinin her metre karesi için beş Yeni Türk Lirası ödenmesi şartıyla izin verilir.
+
+Geçici Madde 2 - Çiftçi kayıt sistemi oluşturulması amacıyla, ilgililerin isteği üzerine
+tarım arazilerinin veraset intikal ve cins tashihi işlemleri için; Veraset İntikal Vergisi, tapu
+harcı, döner sermaye ücreti ve her türlü vergi ve kesintiler bu Kanunun yürürlüğe girmesinden
+itibaren iki yıllık süre içinde alınmaz.
+
+12 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci maddesiyle, bu bölüm başlığında yer alan “Tüzük
+ve” ibaresi yürürlükten kaldırılmıştır.
+13 Bu madde başlığı “ Tüzük ve yönetmelikler” iken, 2/7/2018 tarihli ve 700 sayılı KHK’nin 170 inci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+
+Geçici Madde 3 - (Ek: 31/1/2007-5578/6 md.; Mülga: 26/3/2008-5751/2 md.)
+
+Geçici Madde 4 - (Ek: 26/3/2008-5751/2 md.)
+11/10/2004 tarihinden önce, gerekli izinler alınmadan tarım dışı amaçlı kullanıma
+açılmış bulunan arazilerin tarımsal bütünlüğü bozmuyor ise istenilen amaçla kullanımı için,
+bu Kanunun yayımı tarihinden itibaren bir yıl içerisinde Bakanlığa başvurulması, hazırlanacak
+toprak koruma projesine uyulması ve tarım dışı kullanılan tarım arazilerinin her metre karesi
+için beş Yeni Türk Lirası ödenmesi şartıyla izin verilir.
+Söz konusu arazi ve tesislerin istenilen amaçla kullanımı için çeşitli kurumlardan
+alınması gerekli ruhsat, izin gibi işlemler, Bakanlığa başvuru tarihinden itibaren 2 yıl
+içerisinde tamamlanıncaya kadar başvuru sahipleri faaliyetlerine devam ederler. Bu süreler
+içerisinde gerekli izinleri alamayanların üretim faaliyetleri ilgili idarelerce durdurulur.
+Tarım arazisi vasfından çıkarılan araziler, ilgili kuruluşlarca başvuru sahibinin isteği
+doğrultusunda vasfını değiştirir.
+
+Geçici Madde 5 - (Ek: 30/4/2014-6537/8 md.)
+Bu maddenin yayımı tarihinde mirasçılar arasında henüz paylaşımı yapılmamış tarımsal
+arazilerin devir işlemleri, bu maddeyi ihdas eden Kanundan önceki kanun hükümlerine göre
+tamamlanır.
+Bu maddenin yayımı tarihinden önce tarımsal arazilerin paylaşımına ilişkin olarak
+açılmış ve hâlen devam etmekte olan davalarda, bu maddeyi ihdas eden Kanundan önceki
+kanun hükümleri uygulanır.
+Bu maddenin yayımı tarihinden itibaren iki yıl içinde birinci fıkraya göre yapılacak
+devir işlemleri harçlardan müstesnadır. Bu süre Bakanlar Kurulu tarafından iki yıl uzatılabilir.
+
+Geçici Madde 6 - (Ek:4/7/2019-7181/21 md.)
+19/7/2005 tarihinden önce onaylanmış 1/5000 veya 1/1000 ölçekli imar planları veya
+arsa vasfı kazanmış parseller ile bu maddenin yürürlüğe girdiği tarihten önce belirlenen onaylı
+köy ve/veya mezraların yerleşik alanı ve civarı ile yerleşik alanlar izinli kabul edilir.
+
+Geçici Madde 7- (Ek:28/10/2020-7255/26 md.)
+Bu maddenin yürürlüğe girdiği tarihten itibaren beş yıl boyunca,20 nci ve 21 inci
+maddelere aykırı hareket edenlere, aykırılığın tarımsal amaçlı yapı olması durumunda mezkûr
+maddelerde öngörülen idarî para cezalarının yarısı uygulanır.
+
+Yürürlük
+MADDE 28 - Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+MADDE 29 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+(Ek: 30/4/2014-6537/5 md.)
+
+(1) SAYILI LİSTE
+TÜRKİYE İL/İLÇE BAZINDA YETER GELİRLİ
+TARIMSAL ARAZİ BÜYÜKLÜKLERİ
+
+İl/İlçe
+Sulu Arazi
+(Da)
+Kuru Arazi
+(Da)
+Dikili Arazi
+(Da)
+Örtüaltı Arazi
+(Da)
+Adana
+Aladağ
+Ceyhan
+Çukurova
+Feke
+İmamoğlu
+Karaisalı
+Karataş
+Kozan
+Pozantı
+Saimbeyli
+Sarıçam
+Seyhan
+Tufanbeyli
+Yumurtalık
+Yüreğir
+Adıyaman
+Besni
+Çelikhan
+Gerger
+Gölbaşı
+Kahta
+Merkez
+Samsat
+Sincik
+Tut
+Afyonkarahisar
+Başmakçı
+Bayat
+Bolvadin
+Çay
+
+Çobanlar
+Dazkırı
+Dinar
+Emirdağ
+Evciler
+Hocalar
+İhsaniye
+İscehisar
+Kızılören
+Merkez
+Sandıklı
+Sinanpaşa
+Sultandağı
+Şuhut
+Ağrı
+Diyadin
+Doğubeyazıt
+Eleşkirt
+Hamur
+Merkez
+Patnos
+Taşlıçay
+Tutak
+Aksaray
+Ağaçören
+Eskil
+Gülağaç
+Güzelyurt
+Merkez
+Ortaköy
+Sarıyahşi
+Amasya
+Göynücek
+Gümüşhacıköy
+Hamamözü
+Merkez
+Merzifon
+Suluova
+Taşova
+
+Ankara
+Akyurt
+Altındağ
+Ayaş
+Bala
+Beypazarı
+Çamlıdere
+Çankaya
+Çubuk
+Elmadağ
+Etimesgut
+Evren
+Gölbaşı
+Güdül
+Haymana
+Kalecik
+Kazan
+Keçiören
+Kızılcahamam
+Mamak
+Nallıhan
+Polatlı
+Pursaklar
+Sincan
+Ş.Koçhisar
+Yenimahalle
+Antalya
+Akseki
+Aksu
+Alanya
+Demre
+Döşemealtı
+Elmalı
+Finike
+Gazipaşa
+Gündoğmuş
+İbradı
+Kaş
+Kemer
+
+Kepez
+Konyaaltı
+Korkuteli
+Kumluca
+Manavgat
+Muratpaşa
+Serik
+Ardahan
+Çıldır
+Damal
+Göle
+Hanak
+Merkez
+Posof
+Artvin
+Ardanuç
+Arhavi
+Borçka
+Hopa
+Merkez
+Murgul
+Şavşat
+Yusufeli
+Aydın
+Bozdoğan
+Buharkent
+Çine
+Didim
+Germencik
+İncirliova
+Karacasu
+Karpuzlu
+Koçarlı
+Köşk
+Kuşadası
+Kuyucak
+Merkez
+Nazilli
+
+Söke
+Sultanhisar
+Yenipazar
+Balıkesir
+Ayvalık
+Balya
+Bandırma
+Bigadiç
+Burhaniye
+Dursunbey
+Edremit
+Erdek
+Gömeç
+Gönen
+Havran
+İvrindi
+Kepsut
+Manyas
+Marmara
+Merkez
+Savaştepe
+Sındırgı
+Susurluk
+Bartın
+Amasra
+Kurucaşile
+Merkez
+Ulus
+Batman
+Beşiri
+Gercüş
+Hasankeyf
+Kozluk
+Merkez
+Sason
+Bayburt
+Aydıntepe
+Demirözü
+Merkez
+
+Bilecik
+Bozüyük
+Gölpazarı
+İnhisar
+Merkez
+Osmaneli
+Pazaryeri
+Söğüt
+Yenipazar
+Bingöl
+Adaklı
+Genç
+Karlıova
+Kiğı
+Merkez
+Solhan
+Yayladere
+Yedisu
+Bitlis
+Adilcevaz
+Ahlat
+Güroymak
+Hizan
+Merkez
+Mutki
+Tatvan
+Bolu
+Dörtdivan
+Gerede
+Göynük
+Kıbrıscık
+Mengen
+Merkez
+Mudurnu
+Seben
+Yeniçağa
+Burdur
+Ağlasun
+Altınyayla
+Bucak
+Çavdır
+
+Çeltikçi
+Gölhisar
+Karamanlı
+Kemer
+Merkez
+Tefenni
+Yeşilova
+Bursa
+Büyükorhan
+Gemlik
+Gürsu
+Harmancık
+İnegöl
+İznik
+Karacabey
+Keles
+Kestel
+M. Kemalpaşa
+Mudanya
+Nilüfer
+Orhaneli
+Orhangazi
+Osmangazi
+Yenişehir
+Yıldırım
+Çanakkale
+Ayvacık
+Bayramiç
+Biga
+Bozcaada
+Çan
+Eceabat
+Ezine
+Gelibolu
+Gökçeada
+Lapseki
+Merkez
+Yenice
+
+Çankırı
+Atkaracalar
+Bayramören
+Çerkeş
+Eldivan
+Ilgaz
+Kızılırmak
+Korgun
+Kurşunlu
+Merkez
+Orta
+Şabanözü
+Yapraklı
+Çorum
+Alaca
+Bayat
+Boğazkale
+Dodurga
+İskilip
+Kargı
+Laçin
+Mecitözü
+Merkez
+Oğuzlar
+Ortaköy
+Osmancık
+Sungurlu
+Uğurludağ
+Denizli
+Acıpayam
+Akköy
+Babadağ
+Baklan
+Bekilli
+Beyağaç
+Bozkurt
+Buldan
+Çal
+
+Çameli
+Çardak
+Çivril
+Güney
+Honaz
+Kale
+Merkez
+Sarayköy
+Serinhisar
+Tavas
+Diyarbakır
+Bağlar
+Bismil
+Çermik
+Çınar
+Çüngüş
+Dicle
+Eğil
+Ergani
+Hani
+Hazro
+Kayapınar
+Kocaköy
+Kulp
+Lice
+Silvan
+Sur
+Yenişehir
+Düzce
+Akçakoca
+Cumayeri
+Çilimli
+Gölyaka
+Gümüşova
+Kaynaşlı
+Merkez
+Yığılca
+
+Edirne
+Enez
+Havsa
+İpsala
+Keşan
+Lalapaşa
+Meriç
+Merkez
+Süleoğlu
+Uzunköprü
+Elazığ
+Ağın
+Alacakaya
+Arıcak
+Baskil
+Karakoçan
+Keban
+Kovancılar
+Maden
+Merkez
+Palu
+Sivrice
+Erzincan
+Çayırlı
+İliç
+Kemah
+Kemaliye
+Merkez
+Otlukbeli
+Refahiye
+Tercan
+Üzümlü
+Erzurum
+Aşkale
+Aziziye(Ilıca)
+Çat
+Hınıs
+Horasan
+İspir
+
+Karaçoban
+Karayazı
+Köprüköy
+Narman
+Oltu
+Olur
+Palandöken
+Pasinler
+Pazaryolu
+Şenkaya
+Tekman
+Tortum
+Uzundere
+Yakutiye
+Eskişehir
+Alpu
+Beylikova
+Çifteler
+Günyüzü
+Han
+İnönü
+Mahmudiye
+Mihalgazi
+Mihalıçcık
+Odunpazarı
+Sarıcakaya
+Seyitgazi
+Sivrihisar
+Tepebaşı
+Gaziantep
+Araban
+İslahiye
+Kargamış
+Nizip
+Nurdağı
+Oğuzeli
+Şahinbey
+Şehitkamil
+Yavuzeli
+
+Giresun
+Alucra
+Bulancak
+Çamoluk
+Çanakçı
+Dereli
+Doğankent
+Espiye
+Eynesil
+Görele
+Güce
+Keşap
+Merkez
+Piraziz
+Ş. Karahisar
+Tirebolu
+Yağlıdere
+Gümüşhane
+Kelkit
+Köse
+Kürtün
+Merkez
+Şiran
+Torul
+Hakkari
+Çukurca
+Merkez
+Şemdinli
+Yüksekova
+Hatay
+Altınözü
+Belen
+Dörtyol
+Erzin
+Hassa
+İskenderun
+Kırıkhan
+Kumlu
+Merkez
+Reyhanlı
+Samandağ
+Yayladağı
+
+Iğdır
+Aralık
+Karakoyunlu
+Merkez
+Tuzluca
+Isparta
+Aksu
+Atabey
+Eğirdir
+Gelendost
+Gönen
+Keçiborlu
+Merkez
+Senirkent
+Sütçüler
+Şarkikaraağaç
+Uluborlu
+Yalvaç
+Yenişarbademli
+İstanbul
+Arnavutköy
+Avcılar
+Başakşehir
+Beykoz
+Beylikdüzü
+Büyükçekmece
+Çatalca
+Çekmeköy
+Esenyurt
+Kartal
+Pendik
+Sancaktepe
+Silivri
+Şile
+Şişli
+Tuzla
+İzmir
+Aliağa
+Balçova
+Bayındır
+
+Bergama
+Beydağ
+Bornova
+Buca
+Çeşme
+Çiğli
+Dikili
+Foça
+Gaziemir
+Güzelbahçe
+Karabağlar
+Karaburun
+Karşıyaka
+Kemalpaşa
+Kınık
+Kiraz
+Konak
+Menderes
+Menemen
+Narlıdere
+Ödemiş
+Seferihisar
+Selçuk
+Tire
+Torbalı
+Urla
+Kahramanmaraş
+Afşin
+Andırın
+Çağlayancerit
+Ekinözü
+Elbistan
+Göksun
+Merkez
+Nurhak
+Pazarcık
+Türkoğlu
+
+Karabük
+Eflani
+Eskipazar
+Merkez
+Ovacık
+Safranbolu
+Yenice
+Ayrancı
+Başyayla
+Ermenek
+Kazımkarabekir
+Merkez
+Sarıveliler
+Kars
+Akyaka
+Arpaçay
+Digor
+Kağızman
+Merkez
+Sarıkamış
+Selim
+Susuz
+Kastamonu
+Abana
+Ağlı
+Araç
+Azdavay
+Bozkurt
+Cide
+Çatalzeytin
+Daday
+Devrekani
+Doğanyurt
+Hanönü
+İhsangazi
+İnebolu
+Küre
+Merkez
+Pınarbaşı
+
+Seydiler
+Şenpazar
+Taşköprü
+Tosya
+Kayseri
+Akkışla
+Bünyan
+Develi
+Felahiye
+Hacılar
+İncesu
+Kocasinan
+Melikgazi
+Özvatan
+Pınarbaşı
+Sarıoğlan
+Sarız
+Talas
+Tomarza
+Yahyalı
+Yeşilhisar
+Kırıkkale
+Bahşılı
+Balışeyh
+Çelebi
+Delice
+Karakeçili
+Keskin
+Merkez
+Sulakyurt
+Yahşihan
+Kırklareli
+Babaeski
+Demirköy
+Kofçaz
+Lüleburgaz
+Merkez
+Pehlivanköy
+Pınarhisar
+Vize
+
+Kırşehir
+Akçakent
+Akpınar
+Boztepe
+Çiçekdağı
+Kaman
+Merkez
+Mucur
+Kilis
+Elbeyli
+Merkez
+Musabeyli
+Polateli
+Kocaeli
+Başiskele
+Çayırova
+Darıca
+Derince
+Dilovası
+Gebze
+Gölcük
+İzmit
+Kandıra
+Karamürsel
+Kartepe
+Körfez
+Konya
+Ahırlı
+Akören
+Akşehir
+Altınekin
+Beyşehir
+Bozkır
+Cihanbeyli
+Çeltik
+Çumra
+Derbent
+Derebucak
+Doğanhisar
+Emirgazi
+
+Ereğli
+Güneysınır
+Hadim
+Halkapınar
+Hüyük
+Ilgın
+Kadınhanı
+Karapınar
+Karatay
+Kulu
+Meram
+Sarayönü
+Selçuklu
+Seydişehir
+Taşkent
+Tuzlukçu
+Yalıhüyük
+Yunak
+Kütahya
+Altıntaş
+Aslanapa
+Çavdarhisar
+Domaniç
+Dumlupınar
+Emet
+Gediz
+Hisarcık
+Merkez
+Pazarlar
+Simav
+Şaphane
+Tavşanlı
+Malatya
+Akçadağ
+Arapkir
+Arguvan
+Battalgazi
+Darende
+Doğanşehir
+
+Doğanyol
+Hekimhan
+Kale
+Kuluncak
+Merkez
+Pötürge
+Yazıhan
+Yeşilyurt
+Manisa
+Ahmetli
+Akhisar
+Alaşehir
+Demirci
+Gölmarmara
+Gördes
+Kırkağaç
+Köprübaşı
+Kula
+Merkez
+Salihli
+Sarıgöl
+Saruhanlı
+Selendi
+Soma
+Turgutlu
+Mardin
+Dargeçit
+Derik
+Kızıltepe
+Mazıdağı
+Merkez
+Midyat
+Nusaybin
+Ömerli
+Savur
+Yeşilli
+Mersin
+Akdeniz
+Anamur
+Aydıncık
+
+Bozyazı
+Çamlıyayla
+Erdemli
+Gülnar
+Mezitli
+Mut
+Silifke
+Tarsus
+Toroslar
+Yenişehir
+Muğla
+Bodrum
+Dalaman
+Datça
+Fethiye
+Kavaklıdere
+Köyceğiz
+Marmaris
+Merkez
+Milas
+Ortaca
+Ula
+Yatağan
+Muş
+Bulanık
+Hasköy
+Korkut
+Malazgirt
+Merkez
+Varto
+Nevşehir
+Acıgöl
+Avanos
+Derinkuyu
+Gülşehir
+Hacıbektaş
+Kozaklı
+Merkez
+Ürgüp
+
+Niğde
+Altunhisar
+Bor
+Çamardı
+Çiftlik
+Merkez
+Ulukışla
+Ordu
+Akkuş
+Aybastı
+Çamaş
+Çatalpınar
+Çaybaşı
+Fatsa
+Gölköy
+Gülyalı
+Gürgentepe
+İkizce
+Kabadüz
+Kabataş
+Korgan
+Kumru
+Merkez
+Mesudiye
+Perşembe
+Ulubey
+Ünye
+Osmaniye
+Bahçe
+Düziçi
+Hasanbeyli
+Kadirli
+Merkez
+Sumbas
+Toprakkale
+Rize
+Ardeşen
+Çamlıhemşin
+Çayeli
+
+Derepazarı
+Fındıklı
+Güneysu
+Hemşin
+İkizdere
+İyidere
+Kalkandere
+Merkez
+Pazar
+Adapazarı
+Akyazı
+Arifiye
+Erenler
+Ferizli
+Geyve
+Hendek
+Karapürçek
+Karasu
+Kaynarca
+Kocaali
+Pamukova
+Sapanca
+Serdivan
+Söğütlü
+Taraklı
+Samsun
+Alaçam
+Asarcık
+Atakum
+Ayvacık
+Bafra
+Canik
+Çarşamba
+Havza
+İlkadım
+Kavak
+Ladik
+Ondokuz Mayıs
+Salıpazarı
+
+Tekkeköy
+Terme
+Vezirköprü
+Yakakent
+Siirt
+Aydınlar
+Baykan
+Eruh
+Kurtalan
+Merkez
+Pervari
+Şirvan
+Ayancık
+Boyabat
+Dikmen
+Durağan
+Erfelek
+Gerze
+Merkez
+Saraydüzü
+Türkeli
+Sivas
+Akıncılar
+Altınyayla
+Divriği
+Doğanşar
+Gemerek
+Gölova
+Gürün
+Hafik
+İmranlı
+Kangal
+Koyulhisar
+Merkez
+Suşehri
+Şarkışla
+Ulaş
+Yıldızeli
+Zara
+
+Şanlıurfa
+Akçakale
+Birecik
+Bozova
+Ceylanpınar
+Halfeti
+Harran
+Hilvan
+Merkez
+Siverek
+Suruç
+Viranşehir
+Şırnak
+Beytüşşebap
+Cizre
+Güçlükonak
+İdil
+Merkez
+Silopi
+Uludere
+Tekirdağ
+Çerkezköy
+Çorlu
+Hayrabolu
+M. Ereğlisi
+Malkara
+Merkez
+Muratlı
+Saray
+Şarköy
+Tokat
+Almus
+Artova
+Başçiftlik
+Erbaa
+Merkez
+Niksar
+Pazar
+Reşadiye
+
+Sulusaray
+Turhal
+Yeşilyurt
+Zile
+Trabzon
+Akçaabat
+Araklı
+Arsin
+Beşikdüzü
+Çarşıbaşı
+Çaykara
+Dernekpazarı
+Düzköy
+Hayrat
+Köprübaşı
+Maçka
+Merkez
+Of
+Sürmene
+Şalpazarı
+Tonya
+Vakfıkebir
+Yomra
+Tunceli
+Çemişgezek
+Hozat
+Mazgirt
+Merkez
+Nazımiye
+Ovacık
+Pertek
+Pülümür
+Uşak
+Banaz
+Eşme
+Karahallı
+Merkez
+Sivaslı
+Ulubey
+
+Van
+Bahçesaray
+Başkale
+Çaldıran
+Çatak
+Edremit
+Erciş
+Gevaş
+Gürpınar
+Merkez
+Muradiye
+Özalp
+Saray
+Yalova
+Altınova
+Armutlu
+Çınarcık
+Çiftlikköy
+Merkez
+Termal
+Yozgat
+Akdağmadeni
+Aydıncık
+Boğazlıyan
+Çandır
+Çayıralan
+Çekerek
+Kadışehri
+Merkez
+Saraykent
+Sarıkaya
+Sorgun
+Şefaatli
+Yenifakılı
+Yerköy
+Zonguldak
+Alaplı
+Çaycuma
+Devrek
+Ereğli
+Gökçebey
+Merkez
+
+5403 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
+ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE
+GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
+
+Değiştiren Kanunun/
+KHK’nin veya
+Anayasa Mahkemesi
+Kararının Numarası
+5403 Sayılı Kanunun Değişen
+veya İptal Edilen Maddeleri
+Yürürlüğe Giriş Tarihi
+3, 8, 13, 17, Ek Madde 1, Geçici
+MADDE 3 - 6/7/2007
+8/2/2008
+13, Geçici Madde 3 ve 4
+2/4/2008
+1, 2, 3, 8, 8/A, 8/B, 8/C, 8/Ç, 8/D,
+8/E, 8/F, 8/G, 8/Ğ, 8/H, 8/I, 8/İ,
+8/J, 8/K, 13, 14, 17, Geçici Madde
+5, Ek-1 Sayılı Liste
+15/5/2014
+5/12/2017
+3, 8, 17
+28/4/2018
+KHK/700
+8/A, 8/D, 14, 15, Altıncı Bölüm
+başlığı, 24
+24/6/2018 tarihinde birlikte
+yapılan Türkiye Büyük Millet
+Meclisi ve Cumhurbaşkanlığı
+seçimleri sonucunda
+Cumhurbaşkanının andiçerek
+göreve başladığı tarihte
+(9/7/2018)
+Geçici Madde 6
+10/7/2019
+8/A, 8/B,8/I, 8/İ, 13, 14, 19,20,
+21, Geçici Madde 7
+28/10/2020
+8/K
+5/4/2023
+Anayasa
+Mahkemesinin
+5/4/2023 Tarihli ve E:
+2020/103, K: 2023/68
+Sayılı Kararı
+13, 14
+25/7/2023
+

@@ -1,0 +1,964 @@
+TAPU SİCİLİ TÜZÜĞÜ 
+ 
+Bakanlar Kurulu Kararının Tarihi 
+: 22/7/2013 
+No 
+: 2013/5150 
+Dayandığı Kanunun Tarihi 
+: 22/11/2001 
+No 
+: 4721 
+Yayımlandığı Resmî Gazetenin Tarihi : 17/8/2013 
+No 
+: 28738 
+Yayımlandığı Düsturun Tertibi 
+: 5 
+Cildi : 53 
+ 
+BİRİNCİ BÖLÜM 
+Amaç, Kapsam, Dayanak ve Tanımlar 
+ 
+Amaç 
+MADDE 1 – (1) Bu Tüzüğün amacı, 22/11/2001 tarih ve 4721 sayılı Türk Medeni 
+Kanununun öngördüğü tapu sicillerinin düzenli bir biçimde tutulmasını sağlamaktır. 
+ 
+Kapsam 
+MADDE 2 – (1) Bu Tüzük, taşınmazlarla ilgili mülkiyet hakkı, sınırlı aynî haklar ve 
+kişisel hakların tapu siciline tescil, değişiklik, terkin ve düzeltme işlemleri ile sicil ve belgelerin 
+arşivlenmesinin usûl ve esaslarını kapsar. 
+ 
+Dayanak 
+MADDE 3 – (1) Bu Tüzük, 4721 sayılı Kanunun 913 üncü, 997 nci, 998 inci, 1000 inci, 
+1012 nci ve 1017 nci maddelerine dayanılarak hazırlanmıştır. 
+ 
+Tanımlar 
+MADDE 4 – (1) Bu Tüzükte geçen; 
+a) Bölge müdürlüğü: Tapu ve Kadastro Genel Müdürlüğü bölge müdürlüklerini, 
+b) Genel Müdürlük: Tapu ve Kadastro Genel Müdürlüğünü, 
+c) İstem belgesi: Tescil veya terkin istem belgesini, 
+ç) Kütük: Tapu kütüğü ve kat mülkiyeti kütüğünü, 
+d) Müdür: Tapu müdürünü, 
+e) Müdürlük: Tapu müdürlüğünü, 
+f) TAKBİS: Tapu ve Kadastro Bilgi Sistemini, 
+g) Tapu görevlisi: Tapu müdürlüklerinde işlem hazırlama ve kontrol işlerini yürüten 
+memur veya sözleşmeli personeli, 
+ifade eder. 
+ 
+İKİNCİ BÖLÜM 
+Genel Hükümler 
+ 
+Tapu sicili 
+MADDE 5 – (1) Tapu sicili, Devletin sorumluluğu altında, tescil ve açıklık ilkelerine 
+göre taşınmazlar ile üzerindeki hakların durumlarını göstermek üzere tutulan sicildir. 
+ 
+
+Sicil bölgeleri 
+MADDE 6 – (1) Her ilçenin idarî sınırları bir tapu sicili bölgesidir. Taşınmazlar, 
+bulundukları bölgenin tapu siciline kaydedilir. 
+(2) Tapu sicili, her mahalle veya köy için ayrı ayrı düzenlenir ve taşınmazlara Genel 
+Müdürlük tarafından Türkiye Cumhuriyeti taşınmaz numarası verilir. 
+(3) Birden çok bölgede bulunan taşınmaz, diğer bölge sicillerine kayıtlı olduğu belirtilmek 
+suretiyle her bölgedeki sicile ayrı ayrı kaydedilir. Böyle bir taşınmaza ilişkin tescil istemleri ve 
+tescil işlemleri taşınmazın büyük kısmının bulunduğu bölgede yapılır ve yapılan tescil kütüğe 
+işlenmek üzere diğer bölgelerdeki ilgili müdürlüklere bildirilir. 
+ 
+Tapu sicilinin unsurları 
+MADDE 7 – (1) Tapu sicili, aşağıda belirtilen ana ve yardımcı sicillerden oluşur: 
+(2) Ana siciller: 
+a) Tapu kütüğü, 
+b) Kat mülkiyeti kütüğü, 
+c) Yevmiye defteri, 
+ç) Resmî belgeler (resmî senet, mahkeme kararı ve diğerleri), 
+d) Plân. 
+(3) Yardımcı siciller: 
+a) Aziller sicili, 
+b) Düzeltmeler sicili, 
+c) Kamu orta malları sicili, 
+ç) Tapu envanter defteri. 
+ 
+Tapu siciline kaydı gereken taşınmazlar 
+MADDE 8 – (1) Tapu siciline taşınmaz olarak şunlar kaydedilir: 
+a) Arazi, 
+b) Bağımsız ve sürekli haklar, 
+c) Kat mülkiyetine konu olan bağımsız bölümler. 
+(2) Özel mülkiyete tâbi olmayan ve kamunun yararlanmasına ayrılan taşınmazlar, bunlara 
+ilişkin tescili gerekli bir aynî hakkın kurulması söz konusu olmadıkça kütüğe kaydolunmaz. 
+(3) Tapuya kayıtlı bir taşınmaz, kayda tâbi olmayan bir taşınmaza dönüşürse, tapu 
+sicilinden terkin edilir. 
+ 
+Arazi 
+MADDE 9 – (1) Arazi, sınırları hukukî ve geometrik yöntemlerle belirlenmiş yeryüzü 
+parçasıdır. Arazinin tapu siciline kaydı, özel kanun hükümlerine tâbidir. 
+ 
+
+Bağımsız ve sürekli haklar 
+MADDE 10 – (1) Süresiz veya en az otuz yıl süreli olan ve tasarrufları kısıtlanmayan 
+ve izne tâbi kılınmayan bağımsız ve sürekli irtifak hakları, hak sahibinin yazılı istemi üzerine 
+tapu kütüğünün ayrı bir sayfasına taşınmaz olarak tescil edilir. 
+(2) Tapu kütüğüne taşınmaz olarak tescil edilen bağımsız ve sürekli haklar, üçüncü 
+kişilere devredilebilir, mirasçılara geçebilir ve üzerinde her türlü aynî veya kişisel hak 
+kurulabilir. 
+ 
+Bağımsız bölüm 
+MADDE 11 – (1) Ana taşınmazın bağımsız mülkiyete konu olan bölümleri, kat 
+mülkiyeti kütüğünün ayrı sayfalarına kaydedilir. 
+ 
+ÜÇÜNCÜ BÖLÜM 
+Tapu Sicilinin Elektronik Ortamda Tutulması 
+ 
+Sicillerin elektronik ortamda tutulması 
+MADDE 12 – (1) Tapu kayıtlarının elektronik ortamda tutulması hâlinde, ana ve 
+yardımcı siciller TAKBİS içerisinde saklanır ve yönetilir. TAKBİS’te saklanan ve güvenliği 
+sağlanan taşınmaza ilişkin bilgiler, sicilde esas alınır. 
+(2) TAKBİS üzerindeki kayıtlar, sicillerin elektronik ortamda tutulmaya başlandığı 
+tarihten sonraki bilgileri gösterir. 
+ 
+Elektronik ortamda işlem yapılması 
+MADDE 13 – (1) Genel Müdürlük tarafından belirlenecek resmî şekle tabî olmayan 
+belge ve kayıt örneği verilmesi gibi işlemler, elektronik ortamda başvuru yapılarak ve 
+elektronik imza dâhil diğer kimlik doğrulama yöntemleri kullanılarak tamamlanabilir. 
+ 
+Elektronik ortamda verilere erişim hakkı 
+MADDE 14 – (1) Mahkemeler, Cumhuriyet başsavcılıkları, icra ve iflas müdürlükleri ile 
+kamu kurum ve kuruluşlarının görevleriyle ilgili taşınmaz verilerine erişimi protokol düzenlenerek 
+sağlanabilir. Erişim hakkına sahip kuruluşlar, taşınmaz ile ilgili verileri TAKBİS üzerinden alırlar. 
+(2) Kamu kurumu niteliğindeki meslek kuruluşları ile taşınmaza ilişkin konularda 
+faaliyet gösteren gerçek ve tüzel kişiler, kendi işleriyle sınırlı olmak üzere, düzenlenecek 
+protokol kapsamında gerekli verilere erişebilirler. 
+(3) TAKBİS üzerinden sorgulama yapılabilmesi için, Genel Müdürlük tarafından 
+belirlenecek sözleşme imzalanır. Bu sözleşmede, erişimin türü ve şekli, erişim kontrolü, 
+verilerin kullanım amacı, üçüncü kişilere kullandırılmasına ilişkin sınırlamalar ve amacı 
+dışında kullanımın sonuçları yer alır. 
+(4) Taşınmaz malikleri ile taşınmaz üzerinde hak sahibi olanlar, düzenlenecek 
+sözleşme şartları dahilinde verilere erişebilirler. 
+
+(5) Tapu sicilinde kayıtlı taşınmazın tanımlayıcı bilgileri herkes tarafından sözleşme 
+şartları kapsamında sorgulanabilir. 
+(6) Verilere erişim hakkının kötüye kullanılması hâlinde, özel kanun hükümleri saklı 
+kalmak üzere, TAKBİS’e erişim derhâl durdurulur. 
+(7) TAKBİS verilerine erişime ilişkin döner sermaye katılma payını ve bunun 
+istisnalarını belirlemeye Genel Müdürlük yetkilidir. 
+ 
+Erişim ve bilgi güvenliği 
+MADDE 15 – (1) TAKBİS üzerinden yapılacak her türlü sorgulama ve sorgulayan 
+bilgisi kayıt altına alınır. Bu kayıtlar iki yıl süreyle saklanır. 
+(2) TAKBİS üzerindeki verilere erişimi durdurmaya veya kısıtlama yapmaya Genel 
+Müdürlük yetkilidir. 
+(3) TAKBİS üzerinde, tapu görevlileri hariç olmak üzere, verilerin ardı ardına 
+sorgulanmasına ilişkin her türlü güvenlik önlemi alınır. 
+ 
+DÖRDÜNCÜ BÖLÜM 
+İstem ve İşlemin Sonuçlandırılması 
+ 
+İstem 
+MADDE 16 – (1) Kanunlarda veya bu Tüzükte belirlenen istisnalar dışında, yazılı 
+istem olmadıkça tapu sicili üzerinde işlem yapılamaz, 
+(2) İstem, tescili bozucu veya hükümsüz kılıcı kayıt ve şarta bağlanamaz, 
+(3) Müdürlüklere her türlü tapu işlemi için yapılacak istemde, başvuru istem belgesi 
+düzenlenir. 
+(4) Tapu sicilinde yapılacak haciz dahil her türlü kayıt sorgulaması istemlerinde, 
+Türkiye Cumhuriyeti kimlik numarası veya taşınmazın ada ve parsel numarasının belirtilmesi 
+zorunludur. Aksi hâlde istem reddedilir. 
+ 
+İstemde bulunacaklar 
+MADDE 17 – (1) Kanunî istisnalar dışında, tapu sicilinde hak sahibi olan kişiler 
+istemde bulunabilir. Tescilden önce hak sahibi olmuş kişiler de hakkın tescili için gerekli 
+belgeleri ibraz ederek istemde bulunabilirler. 
+(2) Aile konutu olarak özgülenen taşınmazın maliki olmayan eş, tapu kütüğüne 
+konutun aile konutu olduğuna dair şerhin verilmesini isteyebilir. 
+ 
+Hak sahibinin belirlenmesi 
+MADDE 18 – (1) İstem, müdür veya görevlendireceği tapu görevlisi tarafından 
+incelenir ve istemin hak sahibi tarafından yapılıp yapılmadığı belirlenir. 
+
+(2) İstemde bulunan hak sahibi gerçek kişi ise, Türkiye Cumhuriyeti kimlik numaralı 
+nüfus cüzdanı istenir, ibraz edilen kimlik bilgileri ile tescile esas belgelerde yer alan nüfus bilgileri 
+karşılaştırılarak istemde bulunan ile hak sahibinin aynı kişi olup olmadığı tespit edilir. 
+(3) Hak sahibinin tespit edilmesine yönelik kimlik doğrulama yöntemlerini belirleyerek 
+her türlü teknolojik güvenlik önlemlerini almaya Genel Müdürlük yetkilidir. 
+(4) İstem vekâleten yapılmışsa, vekilden 18/1/1972 tarih ve 1512 sayılı Noterlik 
+Kanununa göre düzenlenmiş ve istem konusu işleri yapmaya yetkili olduğunu içerir 
+vekâletname istenir. Tapu işlemi için düzenlenecek vekâletnamelerde, vekâlet verenin imzasının 
+bulunması zorunludur. Vekil, tevkil yetkisine dayalı olarak bir başkasını vekil tayin etmiş ise, 
+dayanağı olan vekâletname de aranır. Vekilin kimliği belirlendikten sonra, tapu sicilindeki hak 
+sahibi ile vekâletnamedeki vekâlet verenin kimliği ikinci fıkra hükmüne göre karşılaştırılır. 
+(5) İstem bir tüzel kişi adına yapılmış ise, tüzel kişinin istemde bulunulan işlemi 
+yapabileceğini ve temsilcilerini belirten, kanunlarda yazılı mercilerden alınmış yetki belgesi ve 
+imza sirküleri aranır. Yetki belgesinde, temsilcinin Türkiye Cumhuriyeti kimlik numarasının da 
+bulunması zorunludur. 
+(6) İstemde bulunan kişi kanunî temsilci ise, yetkili olduğunu belirten karar veya belge 
+istenir. 
+(7) İstem, kamu kurum ve kuruluşlarınca yapılırsa, bu kamu kurum ve kuruluşlarının 
+ve temsilcilerinin yetkilerinin olup olmadığı belirlenir. 
+(8) Yabancı uyruklu gerçek kişiler ve yabancı ülkelerde kendi ülkelerinin kanunlarına 
+göre kurulan tüzel kişiliğe sahip ticaret şirketlerinin tapu ve kadastro işlemlerinde kullanılacak 
+belgeleri belirlemeye Genel Müdürlük yetkilidir. 
+ 
+Tasarruf yetkisinin belirlenmesi 
+MADDE 19 – (1) İstemde bulunanların fiil ehliyetinin bulunup bulunmadığı 
+araştırılır. 
+(2) Müdürlük, istem sahibinin ifade, tavır ve davranışlarından fiil ehliyetinin bulunup 
+bulunmadığı hususunda şüpheye dûşerse resmî veya özel sağlık kuruluşundan ilgilinin ayırt 
+etme gücüne sahip olup olmadığı hakkında fotoğraflı sağlık raporu ister. Raporun tarihi ve 
+numarası resmî senet veya istem belgesi içeriğinde belirtilir ve raporun aslı işlem dosyasında 
+saklanır. 
+ 
+Resmî senet düzenlenmesini gerektirmeyen işlemler 
+MADDE 20 – (1) Resmî senet düzenlenmesini gerektirmeyen işlemlerde aynî hakların 
+tescili için; 
+a) İstem, yasal veya atanmış mirasçılar tarafından yapılırsa yetkili merciler tarafından 
+verilmiş mirasçılık belgesi, 
+b) İstem, vasiyet alacaklısı tarafından yapılırsa taşınmazın tanımlandığı ve tescil 
+hükmünü de içerir tenfiz kararı veya hâkim tarafından tescil için yazılan yazı ile birlikte tenfiz 
+kararı ve vasiyetnamenin onaylı bir örneği; vasiyet alacaklısı, yasal ve atanmış mirasçılar 
+tarafından birlikte yapılırsa vasiyetnamenin açılıp okunduğuna dair karar ile birlikte 
+vasiyetnamenin onaylı bir örneği, 
+
+c) Miras taksim veya miras payının devri sözleşmesinde tescil yetkisini içerir noterce 
+düzenlenmiş sözleşme; miras taksim sözleşmesi mirasçılar arasında yazılı olarak yapılmış 
+olup da mirasçıların imzaları noterce onaylanmamışsa tüm mirasçıların; imzaların bir kısmı 
+onaylanmış ise imzaları onaylanmamış olanların istemleri, 
+ç) Hükmen yapılan kamulaştırmalarda; mahkeme kararı, 
+d) Cebri icra veya ortaklığın giderilmesi yoluyla yapılan satışlarda; gerçek kişi ihale 
+alıcısının Türkiye Cumhuriyeti kimlik numaralı nüfus bilgilerini ve fotoğrafını içeren, tüzel 
+kişi ihale alıcılarında ise kanunlarda yazılı mercilerden alınmış yetki belgesi ile birlikte ihale 
+alıcısı tüzel kişiliğin unvanını içeren ihalenin kesinleştiğini ve tescili belirten yetkili merciin 
+yazısı, 
+e) Mahkeme kararına dayalı tescillerde; kesinleşmiş mahkeme kararı, 
+f) İmar uygulamalarında; kesinleşmiş imar parselasyon planları, dağıtım cetvelleri ve 
+gerekli diğer belgeler, 
+g) Devlet veya kamu kurumlarınca taşınmazın tahsis veya devir yoluyla dağıtımında; 
+ilgili kanuna uygun şekilde yetkili mercilerce verilen karar, Türkiye Cumhuriyeti kimlik 
+numarasını ve diğer kimlik bilgilerini içerir dağıtım cetvelleri, 
+ğ) Arazi toplulaştırmalarında; yetkili mercilerce onanan kesinleşmiş toplulaştırma planları, 
+Türkiye Cumhuriyeti kimlik numarasını ve diğer kimlik bilgilerini içerir dağıtım cetvelleri, 
+h) Kooperatiflerin ferdileşme işlemlerinde; üyelerin Türkiye Cumhuriyeti kimlik numarasını 
+ve diğer kimlik bilgilerini içerir liste, 
+aranır. 
+ 
+Resmî senet düzenlenmesi 
+MADDE 21 – (1) Sözleşme düzenlenmesi gereken işlemlerde resmî senet düzenlenir. 
+(2) Resmî senetlerin düzenlenmesine ilişkin usul ve esaslar yönetmelikle belirlenir. 
+ 
+İstem belgesi düzenlenmesi 
+MADDE 22 – (1) Sözleşme düzenlenmesini gerektirmeyen işlemlerde, istem sahibinin 
+kimlik bilgileri ile merkezi nüfus idaresi sisteminden alınan yerleşim yeri bilgilerini içeren 
+istem belgesi düzenlenir. 
+(2) Müdür veya görevlendireceği tapu görevlisi, istem belgesinin imzalanmasından 
+önce işlemle ilgili tüm belgeleri kontrol eder. İşlemi hazırlama ve kontrol etme görevleri aynı 
+kişide birleşemez. Bu hüküm tek personel bulunan müdürlüklerde uygulanmaz. 
+(3) İşlemde eksiklik ve yanlışlık bulunmuyorsa, kontrol görevini yapan, istem belgesinin 
+“işlem kontrolü yapıldı” sütununa adını ve soyadını yazarak imzalar, işlemde eksiklik veya 
+yanlışlık tespit edilmiş ise, bunlar giderilmeden imza aşamasına geçilmez. 
+(4) İstem sahibi belgeyi, "okudum" ibaresini yazarak imzalar. İstem belgesi, müdür veya 
+görevlendireceği tapu görevlisi ile belgeyi düzenleyen tapu görevlisi tarafından imzalanarak 
+müdürlük mührü ile onanır. 
+(5) İstem belgesinde silinti, kazıntı, çıkıntı yapılamaz. 
+ 
+
+Yevmiye defterine kayıt 
+MADDE 23 – (1) Yevmiye defterine, tapu sicili üzerinde işlem yapılmasını gerektiren 
+veya reddedilen istemler kaydedilir. Tapu sicili üzerinde kayıtlı hakların birbirlerine üstünlüğü, 
+bu deftere yazım tarih ve sıra numarasına göre belirlenir. 
+(2) Müdürlüğe gelen istemler; 
+a) Sözleşme düzenlenmesi gereken işlemlerde usulüne uygun resmî senet düzenlenerek 
+taraflarca imzalanmasından, 
+b) Sözleşme düzenlenmesi gerekmeyen işlemlerde istem belgesinin imzalanmasından, 
+c) Resmî kurumlara ait yazıların alınmasından 
+sonra yevmiye defterine kaydedilir. 
+(3) Yevmiye defterine; işlemin yevmiye numarası, saat ve dakikası, istemde bulunanın 
+adı ve soyadı, istemin niteliği, isteme konu taşınmazın köy veya mahalle adı, cilt ve sayfa 
+numaraları ile işlemi hazırlayan, kontrol eden ve onaylayanın adı ve soyadı yazılır. 
+(4) Yevmiye defteri müdür tarafından her iş günü tarih atılarak açılır ve iş günü 
+sonunda kapatılarak imzalanır. Yevmiye defteri işlem olmadığı günlerde açılıp kapatılmaz. 
+(5) Yevmiye defterine her sene başında, birden başlayan sıra numarası verilir. 
+(6) Müdür, müdürlük dışına çıkarken veya izin ve rapor gibi nedenlerle görevinden 
+ayrılırken yetki verdiği memuru yevmiye defterine yazar ve imza eder. Müdür göreve dönünce, 
+göreve başladığını yine yevmiye defterine yazar ve imza eder. 
+ 
+Tanık bulundurulması gereken hâller 
+MADDE 24 – (1) Tapu işlemlerinde, istem sahiplerinden biri veya birkaçının imza 
+atamaması, okuma ve yazma bilmemesi, kimliklerinde şüpheye düşülmesi, ölünceye kadar 
+bakma sözleşmesi ile mevzuatın öngördüğü diğer hâllerde iki tanık bulundurulur. 
+(2) İstem sahibinin, işitme, konuşma veya görme engelli olması hâlinde, işlemler 
+isteğe bağlı olarak iki tanık huzurunda yapılır. Engellinin tanık istememesi hâlinde, bu husus 
+istem belgesinde veya resmî senette belirtilir. İlgilinin işitme veya konuşma engelli olması ve 
+yazı ile anlaşma imkânının da bulunmaması hâlinde, işaret dilinden anlayan yeminli bilirkişi 
+bulundurulur. 
+(3) İstem sahiplerinden biri veya birkaçının Türkçe bilmemesi hâlinde, yeminli tercüman 
+bulundurulur. 
+(4) Yeminli tercüman ve bilirkişinin, 12/1/2011 tarih ve 6100 sayılı Hukuk Muhakemeleri 
+Kanununa göre mahkeme huzurunda yaptıkları yemine ilişkin tutanağı müdürlüğe ibraz etmeleri 
+gerekir. 
+(5) Tanıklar, bilirkişi ve tercüman da resmî senedi veya istem belgesini imzalarlar. Resmî 
+senede veya istem belgesine, tanık, bilirkişi ve tercümanın yerleşim yeri ve kimlik bilgileri yazılır. 
+Tanık, bilirkişi ve tercümanın okuma yazma bilmesi ve fiil ehliyetine sahip olması gerekir. 
+(6) İşlemin yapıldığı müdürlükte görev yapanlar tanıklık ve tercümanlık yapamazlar. 
+ 
+
+İmza bilmeyenin işareti 
+MADDE 25 – (1) İstem sahiplerinden biri veya birkaçı imza bilmiyorsa, sol elin 
+başparmağı, yoksa sağ elin başparmağı o da yoksa diğer parmaklardan biri ilgili belgeye bastırılır. 
+Sol el başparmağı dışında bir parmak kullanılmışsa, hangi parmağın bastırıldığı yazılır. 
+(2) Mühür kullanılması hâlinde parmağın da bastırılması zorunludur. 
+(3) Tanıklar, mühür ve parmak izini onaylarlar. 
+ 
+İstemin reddedilmesi 
+MADDE 26 – (1) Mevzuat ve bu Tüzükte yer alan hükümlere uygun olmayan ve 4721 
+sayılı Kanunun 1011 inci maddesine göre geçici tescil şerhine de imkân bulunmayan istemler 
+geciktirilmeden, gerekçesi, itiraz yeri ve süresi de belirtilmek suretiyle reddedilir. 
+(2) Ret kararının varlığı, tarih ve yevmiye numarası esas alınarak kütüğün beyanlar 
+sütununda belirtilir. İstemin reddi halinde, ret gerekçesi giderilmeden reddin konusu tapu 
+işlemi yapılamaz. 
+(3) Ret kararı, istem sahibine elden veya 11/2/1959 tarih ve 7201 sayılı Tebligat 
+Kanunu hükümlerine göre tebliğ edilir. 
+(4) Ret kararına, tebliğ tarihinden itibaren onbeş gün içinde müdürlüğün bağlı bulunduğu 
+bölge müdürlüğüne, bölge müdürlüğünün kararına karşı da tebliğ tarihinden itibaren onbeş gün 
+içinde Genel Müdürlüğe itiraz edilebilir. 
+ 
+BEŞİNCİ BÖLÜM 
+Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili 
+ 
+Tescilin şekli 
+MADDE 27 – (1) İstem, yevmiye defterine kaydedildikten sonra, aynı tarih ve 
+yevmiye numarası ile kütüğe tescil edilir. Tescil, siyah veya mavi mürekkepli kalemle ve 
+kitap harfleriyle okunaklı şekilde yazılır. Kütük üzerinde kazıntı, silinti ve çıkıntı yapılamaz. 
+ 
+Mülkiyet hakkının tescili 
+MADDE 28 – (1) Kütük sayfası malik sütunundaki devreden kişinin adı ve soyadı, baba 
+adı ile edinme nedeni, tarih ve yevmiye numarası kırmızı mürekkepli kalemle çizilir ve yine 
+kırmızı mürekkepli kalemle tarih ve yevmiye numarası yazılır. Malik sütununun ilk beş satırına 
+yeni malikin adı, soyadı ve baba adı, edinme nedeni, tarih ve yevmiye numarası yazılır. 
+(2) Tüzel kişilerin unvanı tam olarak yazılır. 
+(3) Paylı mülkiyette pay miktarı; paydaşların adı, soyadı ve baba adından sonraki 
+kısımda, kesirli olarak gösterilir. 
+(4) Bir paydaş sonradan başka bir paya sahip olduğu takdirde, paylar üzerinde 
+herhangi bir kısıtlama bulunmaması hâlinde payın tescili sırasında payların toplamı yazılır. 
+Kısıtlamanın terkin edilmesi durumunda, paylar re'sen birleştirilerek edinme sebebi sütununa 
+pay birleştirmesi ifadesi yazılır. 
+
+(5) Elbirliği mülkiyette elbirliğini doğuran neden, malik adlarının ortak paranteze 
+alınmasından sonra belirtilir. 
+(6) Aynı malike ait birden çok taşınmaz birbirine bitişik olmasa da, malikin istemiyle 
+TAKBİS üzerinde müşterek tapu kütüğüne kaydedilerek, taşınmaz sayfa numaraları ile bağlantı 
+sağlanır. Bu durumda, müşterek tapu kütüğüne kaydedilen taşınmazların asıl sayfaları üzerinde, 
+herhangi bir işlem yapılamaz. Müşterek tapu kütüğünden çıkarılan taşınmazlar üzerindeki mevcut 
+hak ve yükler, taşınmazların asıl sayfalarına nakledilir. 
+ 
+Ortaklaşa kullanılan yerlerin tescili 
+MADDE 29 – (1) Sosyal tesis, ticarî mahal, yüzme havuzu, tenis kortu gibi taşınmaz 
+veya bağımsız bölümler ortaklaşa kullanıma ayrılmış ise, malik sütununa yararlanan 
+taşınmazların ada ve parsel veya bağımsız bölüm numaraları yazılır. 
+(2) Ortaklaşa kullanılan yerler, yararlanan taşınmazlarla aynı ada ve parsel içerisinde 
+olabileceği gibi, ortak sınırı olmaksızın ayrı ada ve parsellerde de bulunabilir. 
+(3) Yararlanan taşınmazların kütük sayfasının beyanlar sütununa, ortaklaşa kullanılan 
+taşınmazın, hangi ada ve parsel veya bağımsız bölümle ortak olduğu belirtilir. 
+(4) Ortaklaşa kullanılan yerler, kanunî istisnalar dışında, yararlanan bütün taşınmaz 
+maliklerinin birlikte istemleri olmadan paylı mülkiyete dönüştürülemez. 
+ 
+İrtifak hakları ve taşınmaz yükünün tescili 
+MADDE 30 – (1) İrtifak hakları, kütük sayfasında ayrılan özel sütununa tescil edilir. 
+(2) Kişisel irtifak hakları, ilgili taşınmazın kütük sayfası irtifak hakları sütununda 
+mükellefiyet anlamına gelen "m" harfi ile gösterilir. Hak sahibinin adı, soyadı ve irtifak 
+hakkının çeşidi belirtilerek ve varsa süresi yazılarak tescil edilir. Bu hakları tescilinde, ayrıca 
+her bir irtifak hakkı için "a" harfinden başlamak üzere alfabenin tüm harfleri (a, b, c, ç, ... g, ğ, 
+... ı, i, j... gibi) kullanılır. 
+(3) Taşınmaz lehine kurulan irtifak hakları, lehine irtifak hakkı kurulan taşınmazın 
+kütük sayfasında hak anlamına gelen "h" harfi ile aleyhine irtifak hakkı kurulan yüklü 
+taşınmazın kütük sayfasında ise, "m" harfi ile gösterilir. Yararlanan taşınmazın kütük sayfası 
+irtifak hakları sütununda, yüklü taşınmaz üzerinde tescil edilecek irtifak hakkının niteliği 
+belirtilir. Yüklü taşınmazın kütük sayfasında ise, yararlanan taşınmaz lehine kurulan irtifak 
+hakkının niteliği tescil edilir. Taşınmaz lehine kurulacak irtifak hakları planında da gösterilir. 
+(4) Taşınmaz yükü, yüklü taşınmazın kütük sayfası irtifak hakları sütununa tescil edilir. 
+Hak sahibi ve kıymeti belirtilir. Belirli bir taşınmaz lehine yük söz konusu ise, aynı zamanda 
+yararlanan taşınmaz kütük sayfası irtifak sütununda niteliği de belirtilerek tescil edilir. 
+(5) Bağımsız ve sürekli irtifak hakları ise, tapu kütüğünün en son sayfasına tescil 
+edilir, taşınmaz ve üzerindeki hakların tapu kütüğü sayfaları arasında bağlantı sağlanır. 
+ 
+
+Rehin haklarının tescili 
+MADDE 31 – (1) Taşınmaz rehni, kütük sayfasının ilgili sütununa aşağıdaki şekilde 
+tescil edilir: 
+a) Her bir rehin hakkı için, "A" harfinden başlamak üzere alfabenin tüm harfleri (A, B, 
+C, Ç, ... G, Ğ,... I, İ, J... gibi) kullanılır. 
+b) Tescilde, ipotek "İ", ipotekli borç senedi "İ.B.S.", irat senedi "İ.S." harfleriyle 
+gösterilir. 
+c) Alacaklının adı, soyadı ve baba adı, tüzel kişinin unvanı tam olarak yazılır, ipotekli 
+borç senedi hamiline yazılı ise bu durum belirtilir. 
+ç) Rehin miktarı, varsa faiz oranı, rehin derecesi, rehin süresi ile tescil tarihi ve yevmiye 
+numarası yazılır. Faiz oranı değişken ise, düşünceler sütununda belirtilir. Rehin haklarının terkini 
+için sonraki ilk satır boş bırakılır. 
+(2) Rehin hakkının kuruluşundaki şartlarda yapılan değişikliğe ait sözleşmeler, 
+alacağın kısmen ödenmesine ilişkin istemler, 11/1/2011 tarih ve 6098 sayılı Türk Borçlar 
+Kanununun 183 üncü maddesi uyarınca yapılacak alacağın devri sözleşmeleri ve benzerleri 
+düşünceler sütununda belirtilir. 
+(3) Boşalan dereceye geçme hakkı veren sözleşmeler, şerhler sütununda gösterilir. 
+ 
+Müşterek rehnin tescili 
+MADDE 32 – (1) Birden çok taşınmazın aynı alacak için rehnedilmesi hâlinde, tescil 
+aşağıdaki şekilde yapılır; 
+a) Aynı malike ait birden çok taşınmaz veya pay aynı alacak için rehin edilirse; ilgili 
+taşınmazların kütük sayfaları rehin sütununa alacak miktarının tamamı tescil edilmekle 
+birlikte, düşünceler sütununda hangi taşınmazlarla müşterek rehinli olduğu belirtilir. 
+b) Müştereken ve/veya müteselsilen borçlu kimselere ait birden çok taşınmaz veya pay 
+aynı alacak için rehin edilirse; ilgili taşınmazların kütük sayfaları rehin sütununa alacak miktarının 
+tamamı tescil edilmekle birlikte, düşünceler sütununda hangi taşınmazlarla müşterek rehinli 
+olduğu belirtilir. 
+c) Müşterek ve/veya müteselsil borç durumu söz konusu olmaksızın aynı alacak için 
+birden çok kişiye ait taşınmaz veya pay rehnedilirse; taşınmaz veya paylardan her birinin bu 
+alacağın belli bir kısmı için rehin edilmesi gerekir. İlgili taşınmazların kütük sayfaları rehin 
+sütununa, rehin miktarından taşınmaza isabet eden miktarı tescil edilir. Her bir taşınmaz veya 
+payın ne miktar için rehnedildiği belirtilmezse istem reddedilir. 
+ç) Bir rehin hakkı, 28 inci maddenin altıncı fıkrası gereğince oluşturulan müşterek 
+tapu kütüğü sayfasına kaydedilen taşınmazların tamamını kapsamadıkça, bu sayfaya tescil 
+olunamaz. İstem konusu rehin hakkı müşterek tapu kütüğü sayfasında tescilli bulunan 
+taşınmazlardan bazılarını kapsamakta ise, rehin kapsamı dışında kalan taşınmaz, müşterek 
+tapu kütüğü sayfasından çıkartılarak kayıtların taşınması hükümleri dikkate alınmak suretiyle 
+tapu kütüğüne re'sen nakledilir. 
+ 
+
+Paylı mülkiyete konu taşınmazlarda payın rehni 
+MADDE 33 – (1) Paylı mülkiyete konu taşınmazlarda payın rehnedilmesi hâlinde, 
+hangi payın rehinli olduğu düşünceler sütununda belirtilir. 
+(2) Taşınmaz, paylara ayrılarak rehnedilemeyeceği gibi, bir paydaşın payı da bölünerek 
+rehnedilemez. 
+(3) Pay üzerinde rehin kurulduktan sonra, paydaşlar taşınmazın tamamını rehnedemezler. 
+(4) Elbirliği mülkiyeti, paylı mülkiyete çevrilmeden herhangi bir ortağın payı rehnedilmez. 
+ 
+Korunmuş miktar 
+MADDE 34 – (1) Sonradan kurulacak rehin hakkı için boş derece bırakılmak istenirse, 
+rehindeki şekle uyulmak kaydıyla, kütüğün rehin sütunu alacaklı adı kısmına "korunmuş miktar" 
+ibaresi ve alacak sütununa da miktarı yazılır. Faiz ve müddet sütunu boş bırakılır. 
+ 
+Düşünceler sütunu 
+MADDE 35 – (1) Rehin haklarına ilişkin düşünceler sütunundaki rehinle ilgili 
+belirtmeler, rehin hangi harf ile tescil edilmiş ise, o harf kullanılarak yazılır. 
+(2) Aynı rehin için birden fazla belirtme yazılması hâlinde de aynı harf kullanılır. 
+(3) Rehinli pay devredilirse, düşünceler sütunundaki eski malikin adı çizilip, devir 
+işlemine ilişkin tarih ve yevmiye ile rehne ait harf kullanılmak suretiyle yeni malikin adı yazılır. 
+(4) Rehnin terkini hâlinde, düşünceler sütunundaki rehne ilişkin belirtmeler ve varsa 
+boşalan dereceye geçme hakkı şerhi de terkin edilir. 
+(5) Zanaatkârlar ve yüklenicilerin kanunî ipoteklerinin tescilinde, düşünceler sütununa 
+“zanaatkâr ve yüklenici ipoteği” olduğu belirtilir. 
+ 
+Tescilin kontrolü 
+MADDE 36 – (1) Müdür veya görevlendireceği tapu görevlisi, tescil kontrolünü 
+yapar. Tescil ve tescili kontrol etme görevleri aynı kişide birleşemez. Bu hüküm tek personel 
+bulunan müdürlüklerde uygulanmaz. 
+(2) Tescilde eksiklik ve yanlışlık bulunmuyorsa, kontrol görevini yapan, istem 
+belgesinin ilgili sütununa "tescil kontrolü yapıldı" ibaresiyle birlikte adını ve soyadını yazarak 
+imzalar. 
+ 
+ALTINCI BÖLÜM 
+İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık 
+Gösterilerek Çıkarılan Senetler 
+ 
+Değerleme yapılması ve taşınmaz değerleme komisyonu 
+MADDE 37 – (1) İpotekli borç senedi veya irat senedi yoluyla rehin hakkı kurulması 
+için rehin konusu taşınmazın değeri komisyon tarafından tespit edilir. 
+
+(2) Taşınmaz değerleme komisyonu; müdürün başkanlığında, kadastro müdürlüğünden 
+varsa mühendis yoksa kontrol memuru, defterdarlık veya malmüdürlüğünden bir temsilci, 
+ilgisine göre belediye encümeni veya il veya ilçe idare kurulu tarafından belirlenecek bir 
+teknik eleman, değeri tespit edilecek taşınmaz tarım arazisi ise tarım müdürlüğünce, konut 
+veya arsa ise ticaret veya sanayi odası tarafından belirlenecek bir teknik eleman olmak üzere 
+beş kişiden oluşur. 
+(3) Komisyon üyeleri, müdürün yazılı talebi üzerine ilgili idarelerce yedi gün içerisinde 
+belirlenerek müdürlüğe bildirilir. Komisyon; müdürün üyelere yazılı olarak bildireceği yer, gün ve 
+saatte, üye tam sayısı ile toplanır ve salt çoğunlukla alacağı kararla değeri belirler. Karara 
+katılmayan üye katılmama gerekçesini yazmak zorundadır. 
+(4) Komisyon üyelerine, çalışacakları günler için ücret ödenir. Bu ücret, 10/2/1954 
+tarih ve 6245 sayılı Harcırah Kanununun birinci derecedeki memurlara öngördüğü miktarın 
+üç katından fazla olmamak üzere Genel Müdürlükçe belirlenir. 
+(5) Değer tespitiyle ilgili ücret, keşif ve inceleme giderleri ilgililer tarafından ödenir. 
+(6) Taşınmazın kayıtlı bulunduğu müdürlüğün yetki alanı dışındaki taşınmaza yönelik 
+ipotekli borç senedi veya irat senedi kurulması talep edilirse, değer tespiti taşınmazın kayıtlı 
+bulunduğu müdürlük tarafından yapılır. 
+ 
+İpotekli borç senedi için değer tespiti 
+MADDE 38 – (1) Taşınmazın değeri; 
+a) Cinsi, 
+b) Yüzölçümü, 
+c) Emlak vergisi beyan değeri, 
+ç) Varsa resmî makamlarca yapılmış değer takdiri, 
+d) Getireceği gelir, 
+e) Arsa ve arazilerde emsal satış değerleri, 
+f) Binalarda resmî maliyet değeri ve yıpranma payı, 
+g) Değerini etkileyecek diğer nitelikleri, 
+esas alınarak bir rapora dayalı olarak tespit edilir. 
+(2) Taşınmazın komisyon tarafından tespit edilmiş değerini aşan miktar için ipotekli 
+borç senedi yoluyla rehin hakkı kurulamaz. 
+ 
+İrat senedi için değer tespiti 
+MADDE 39 – (1) İrat senedi, tarım arazisi, binalar veya üzerinde bina yapılabilecek 
+arsalar üzerinde kurulur. 
+(2) İrat senedindeki alacak miktarı; irat senedi tarım arazisi üzerinde kurulacaksa, 
+arazinin gelir değerinin, bina veya arsa üzerinde kurulacaksa gelir değeri ile bina veya arsanın 
+rayiç değeri ortalamasının beşte üçünü aşamaz. 
+ 
+
+Gelir değerinin tespit edilmesi 
+MADDE 40 – (1) Tarım arazisinin gelir değeri, yıllık olağan kira ile ortalama kira 
+bedeli toplamının yarısının (10) rakamı ile çarpımından elde edilecek tutardır. Olağan kira, 
+araziyi işleten kimsenin emek ve masrafına karşılık makul bir kazanç elde etmesine elverişli 
+olan kiradır. Ortalama kira, değeri belirlenecek arazinin geriye doğru on senelik getirdiği kira 
+toplamının onda biridir. 
+(2) Gelir değeri tespit edilecek taşınmaz kiraya verilmemiş olur ve bulunduğu bölge 
+içinde veya civar bölgelerde karşılaştırma yoluyla olağan ve ortalama kirayı da belirleme 
+mümkün olmaz ise, genel hâsılatın ortalaması bulunur. Hâsılat ortalamasının bulunmasında, 
+on yılda getirdiği hâsılat gözönüne alınır. Tarımın gerektirdiği masraf düşülüp, kalan net 
+hâsılat kabul edilerek on yıllık toplamı, gelir değeri kabul edilir. 
+ 
+İpotekli borç senedi veya irat senedinin düzenlenmesi 
+MADDE 41 – (1) ipotekli borç senedi ve irat senedi nama veya hamile yazılı 
+düzenlenebilir. Bu senetler yüklü taşınmazın maliki adına da düzenlenebilir. 
+(2) İpotekli borç senedi ve irat senedinin şekli Genel Müdürlükçe belirlenir. 
+(3) Bu senetlerde taşınmazın kayıtlı bulunduğu kütüğün; il ve ilçesi, mahallesi veya 
+köyü, pafta, ada ve parsel numaraları, cinsi, cilt ve sayfa numarası, tespit edilen resmi değeri, 
+rehin hakkı ile ilgili bilgiler ve taşınmaz üzerindeki tüm kısıtlamalar yer alır. 
+(4) Bir senet iptal edilip de yerine yeniden senet verildiğinde, yeni senette eski senedin 
+yerine verildiği belirtilir. 
+(5) İpotekli borç senedi ve irat senedi, taşınmaz maliki ve borçlu tarafından birlikte 
+imzalanır. 
+(6) İpotekli borç senedi ve irat senedi tapu siciliyle karşılaştırılarak, kapsamı sicil 
+içeriğine uygun olduğu takdirde müdür ile defterdar veya malmüdürü tarafından imzalanır. 
+(7) İpotekli borç senedi veya irat senedi düzenlenirken, alacaklı, borçlu ve taşınmaz 
+malikinin birlikte ortak bir temsilci atamaları halinde temsilcinin adı ve soyadı, ipotekli borç 
+senedi veya irat senedinde ve kütüğün düşünceler sütununda belirtilir. 
+(8) Müdür, borçlunun ve kısıtlanan taşınmaz malikinin yazılı istemiyle senedi 
+alacaklıya veya temsilcisine teslim eder. 
+ 
+Birden çok taşınmazın kısıtlanmasında senetler 
+MADDE 42 – (1) Aynı alacak için aynı malike veya müşterek ve/veya müteselsil 
+borçlu olan kimselere ait birden çok taşınmaz üzerinde ipotekli borç senedi veya irat senedi 
+kurulursa tek bir senet verilir. 
+(2) Aynı alacak için birden çok kişiye ait taşınmaz veya payı üzerinde müşterek borç 
+durumu söz konusu olmaksızın ipotekli borç senedi veya irat senedi kurulursa, taşınmazı 
+kısıtlayan her alacak için ayrı senet verilir. 
+ 
+
+Rehin kapsamına sonradan taşınmaz ilavesi 
+MADDE 43 – (1) Bir ipotekli borç senedinin ve irat senedinin kurulmasından sonra, 
+başkaca taşınmazların aynı rehin hakkına dahil edilmesi, bu bölümdeki hükümlere göre yapılır. 
+ 
+İpotekli borç senedi ve irat senedi üzerinde yapılacak değişiklikler 
+MADDE 44 – (1) İpotekli borç senedi ve irat senedi kayıtlarının değiştirilmesi tarafların 
+anlaşması ve senetlerin müdürlüğe verilmesi ile yapılabilir. Anlaşma olmazsa mahkeme kararı 
+olmadan değişiklik yapılamaz. 
+(2) Kayıt üzerinde yapılan değişiklikler, senetler üzerine de yazılmak suretiyle müdür 
+ile defterdar veya malmüdürü tarafından imzalanır. 
+ 
+Seri halinde senet çıkarılması 
+MADDE 45 – (1) 4721 sayılı Kanunun 931 inci maddesi uyarınca seri halinde senet 
+çıkarılırsa, rehinle ilgili işlemlerden başka, çıkarılan senetlerin adedi, taşınmazın kayıtlı 
+olduğu kütük sayfasının rehin haklarına ait düşünceler sütununda belirtilir. 
+(2) Tahvilleri güvence altına almak üzere çıkarılan ipotekli borç veya irat senetleri, 
+rehin olarak tescil edilirken, tahvillerin nama veya hamiline yazılı olduğu alacaklılar 
+sütununda ayrıca belirtilir. Tahvillerin adet ve niteliği ile varsa alacaklı ve borçluyu temsil 
+eden kişinin adı rehin haklarına ait düşünceler sütununda belirtilir. 
+ 
+YEDİNCİ BÖLÜM 
+Şerhler ve Beyanlar 
+ 
+Şerhler sütunu 
+MADDE 46 – (1) Kütüğün şerhler sütununa kişisel haklar, tasarruf yetkisini kısıtlayan 
+veya yasaklayan şerhler, geçici tescil şerhleri ile kanunlarda öngörülen diğer hususlar yazılır. 
+ 
+Kişisel hakların şerhi için aranacak belgeler 
+MADDE 47 – (1) Kişisel hakların, şerhler sütununa kaydı için; 
+a) Satışla birlikte kurulan gerialım hakkı, bağışla birlikte kurulan bağışlayana dönme 
+hakkı, rehinle birlikte kurulan boşalan dereceye geçme hakkı ve irtifak hakkı vaadi için resmî 
+senet, 
+b) Satış sözleşmesinden ayrı olarak düzenlenen gerialım hakkı, bağış sözleşmesinden 
+ayrı olarak düzenlenen bağışlayana dönme hakkı ve rehinden ayrı olarak düzenlenen boşalan 
+dereceye geçme hakkı için noterce düzenlenen sözleşme, 
+c) Alım, taşınmaz satış vaadi, bağışlama vaadi ve arsa payı karşılığı inşaat hakkı için 
+noterce düzenlenen sözleşme, 
+ç) Sözleşmeden doğan önalım hakkı ve taşınmaz kiraları için yazılı sözleşme, 
+aranır. 
+ 
+
+Tasarruf yetkisini kısıtlayan şerhler için aranacak belgeler 
+MADDE 48 – (1) Tasarruf yetkisini kısıtlayan şerhler için; 
+a) Haciz ve ihtiyati haciz için yetkili merciin resmî yazısı, 
+b) Devretmekle yükümlü önmirasçı atama hâlinde vasiyetnamenin onaylı bir örneği ve 
+şerhi içeren mahkeme yazısı, 
+c) Çekişmeli hakların korunmasına ilişkin hâllerde mahkeme kararı, 
+ç) Kanunların kısıtlayıcı şerh verilmesini öngördüğü diğer hâllerde kanunda belirtilen 
+belgeler, 
+aranır. 
+ 
+Tasarruf hakkını yasaklayan şerhler için aranacak belgeler 
+MADDE 49 – (1) Tasarruf hakkını yasaklayan şerhler için; 
+a) İhtiyatî tedbir için mahkeme kararı veya yazısı, 
+b) Kamu haczi, iflas veya konkordato ile verilen sürenin şerhi için yetkili merciin resmî 
+yazısı, 
+c) Aile konutu şerhi için merkezi nüfus idaresi sisteminden veya nüfus müdürlüğünden 
+alınan yerleşim yeri belgesi ile medeni hâli gösterir nüfus kayıt örneği, 
+ç) Aile yurdu kurulması hâlinde mahkeme kararı veya yazısı, 
+d) Eşlerden birinin taşınmaz üzerindeki tasarruf yetkisinin kaldırılması hâlinde mahkeme 
+kararı, 
+e) Kanunların yasaklayıcı şerh verilmesini öngördüğü diğer hâllerde kanunda belirtilen 
+belgeler, 
+aranır. 
+ 
+Geçici tescil şerhi 
+MADDE 50 – (1) İddia edilen bir aynî hakkın güvence altına alınmasının gerektiği 
+veya tasarruf yetkisini belirleyen belgelerdeki eksikliklerin sonradan tamamlanmasına 
+kanunun olanak tanıdığı hâllerde, bütün ilgililerin istemi veya hâkim kararı ile geçici tescil 
+şerhi verilebilir. 
+ 
+Şerhin şekli 
+MADDE 51 – (1) Şerhler, kütük sayfasındaki özel sütuna, konusu, süresi, tarih ve 
+yevmiye numarası ile varsa değeri gösterilerek yazılır, terkini için sonraki ilk satır boş bırakılır. 
+(2) Geçici tescil şerhleri “G.T.Ş.” harfleriyle gösterilir. Kesin tescil, terkin olunacak 
+geçici tescil şerhinin tarih ve yevmiye numarası ile yapılır. 
+(3) Şerhle yükümlü taşınmaz devre konu olursa, varsa şerhler sütunundaki eski 
+malikin adı çizilip, şerhin tarih ve yevmiye numarası değiştirilmeksizin, devir işlemine ilişkin 
+tarih ve yevmiye numarası ile yeni malikin adı yazılır. 
+ 
+
+Beyanlar sütununda belirtme 
+MADDE 52 – (1) Kütüğün beyanlar sütununa, mevzuatın yazılmasını öngördüğü 
+hususlar tarih ve yevmiye numarası belirtilerek yazılır. 
+(2) Tescil, değişiklik, terkin veya düzeltmeyi yolsuz duruma getiren hukukî veya teknik 
+sebeplerin Müdürlükçe tespiti hâlinde, bu husus kütüğün beyanlar sütununda re'sen belirtilir. 
+ 
+Eklentilerin yazımı 
+MADDE 53 – (1) Eklentiler, mülkiyet hakkı sahibinin yazılı istemi üzerine, kütüğün 
+beyanlar sütununa tarih ve yevmiye numarası ile yazılır. 
+(2) İstem sahibinin dilekçesinde eklentinin adedi, cinsi ve kıymeti gösterilir. 
+(3) 23/6/1965 tarih ve 634 sayılı Kat Mülkiyeti Kanununun eklentiye dair hükümleri 
+saklıdır. 
+ 
+Kurulmaları artık mümkün olmayan aynî hakların yazımı 
+MADDE 54 – (1) 4721 sayılı Kanun hükümlerine göre kurulmaları artık mümkün 
+olmayan aynî haklar, ilgili taşınmaz kütüğünün beyanlar sütununa yazılır. Bu hakların tasarruf 
+işlemleri, bağımsız ve sürekli hakların kayıt usulüne tâbidir. 
+ 
+Vesayet kararlarının yazımı 
+MADDE 55 – (1) Müdürlüğün, hak sahibinin vesayet altına alındığına veya vesayetin 
+kaldırıldığına dair mahkeme kararlarından yazılı olarak bilgisi olursa, bu durum taşınmazın 
+kütüğünün beyanlar sütununa tarih ve yevmiye numarası ile yazılır. 
+ 
+Zanaatkârlar veya yüklenicilerin işe başlama tarihinin yazımı 
+MADDE 56 – (1) İşe başlama tarihi, hak sahibi, zanaatkâr veya yüklenicinin bildirimi 
+üzerine beyanlar sütununa yazılır. 
+ 
+SEKİZİNCİ BÖLÜM 
+Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması 
+ 
+Taşınmazın bölünmesi 
+MADDE 57 – (1) Bir taşınmazın bölünmesi sonucunda oluşan her yeni taşınmaz için 
+bir kütük sayfası açılarak tescil edilir. 
+ 
+Yararlanan taşınmaz yönünden irtifak haklarının taşınması 
+MADDE 58 – (1) İrtifak hakkından yararlanan taşınmazın bölünmesi hâlinde kural 
+olarak, irtifak hakkı her taşınmaz yararına devam eder. Ancak bu haktan bir veya birden fazla 
+taşınmaz yararlanıyorsa, yüklü taşınmaz maliki irtifak hakkının diğer taşınmazlardan terkinini 
+isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren 
+bir ay içinde itiraz edilmezse irtifak hakkı terkin edilir. 
+ 
+
+Yüklü taşınmaz yönünden irtifak haklarının taşınması 
+MADDE 59 – (1) Yüklü taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her 
+taşınmaz üzerinde devam eder. Ancak, irtifak hakkı belirli taşınmazlar üzerinde kullanılmazsa, bu 
+taşınmazların maliklerinden her biri kendi taşınmazı üzerindeki irtifak hakkının terkinini 
+isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren bir ay 
+içinde itiraz edilmezse irtifak hakkı terkin edilir. 
+ 
+Taşınmazların bölünmesinde rehnin taşınması veya paylaştırılması 
+MADDE 60 – (Danıştay Onuncu Dairesinin 21/11/2023 tarihli ve E.:2019/7210; 
+K.:2023/7212 sayılı kararı ile iptal madde; Danıştay İDDK’nın 30/10/2025 tarihli 
+E.:2024/2157, K.:2025/2262 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) 
+ 
+Bölünme yolu ile taksimde rehnin taşınması 
+MADDE 61 – (1) Paylı mülkiyete konu bir taşınmazın paydaşlarından biri veya 
+birkaçının payı üzerinde rehin hakkı olup da, bu taşınmazın bölünerek taksimi istenilirse, rehin 
+alacaklısının onayı alınır. Rehin alacaklısı onay vermezse, istemde bulunan tarafın mahkemeden 
+alacağı karara göre işlem yapılır ve işlem sonucu alacaklılara hemen bildirilir. 
+(2) Paydaşlar, rehin haklarının hukukî sonuçlarını kabul ederek rehnin bölünme sonucunda 
+oluşacak taşınmazlarına müşterek rehin olarak aynen taşınmasına onay verirlerse, bu duruma göre 
+işlem yapılır. 
+ 
+Aynen taksimde rehin hakkının taşınması 
+MADDE 62 – (1) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil 
+rehinli olup, bölünme söz konusu olmaksızın taksim edilir ise, rehin bütün taşınmazlar 
+üzerinde olduğu gibi korunur, işlemin sonucu alacaklıya hemen bildirilir, 
+(2) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil sorumlu 
+olmaksızın ayrı ayrı rehinli olup, aynen taksimi istenirse, rehin alacaklısının onayı alınır. 
+Rehin alacaklısı onay vermezse, istemde bulunan tarafın mahkemeden alacağı karara göre 
+işlem yapılır ve işlem sonucu alacaklılara hemen bildirilir. 
+(3) Hissedarlar, rehin haklarının hukukî sonuçlarını kabul ederek rehnin aynen taksim 
+sonucunda oluşacak taşınmazlarına müşterek rehin olarak aynen taşınmasına onay verirlerse, 
+bu duruma göre işlem yapılır. 
+ 
+Yararlanan ve yüklü taşınmazın bölünmesi 
+MADDE 63 – (1) Yararlanan ve yüklü taşınmazın bölünmesinde kütük sayfasında 
+mevcut hak ve yükler, oluşan yeni taşınmazların kütük sayfalarına aynen nakledilir ve 
+beyanlar sütununda aralarındaki bağlantı gösterilir. 
+ 
+Şerhler ve beyanların taşınması 
+
+MADDE 64 – (1) Bir taşınmazın bölünmesinde, üzerindeki bütün şerh ve beyan 
+kayıtları, oluşan taşınmazların sayfalarına aynen nakledilerek aralarında bağlantı sağlanır. 
+Şerh veya beyan kaydının hangi taşınmaz üzerinde devam ettiği hukuken ve teknik açıdan 
+belirlenebiliyorsa, kaydın sadece o taşınmaza nakledilmesiyle yetinilir. 
+(2) Taşınmazın bölünme yolu ile taksiminde, şerhler ve beyanlar 60 ıncı ve 61 inci 
+madde hükümleri uyarınca nakledilir. 
+ 
+Yeni parsel oluşumunu gerektirmeyen bölünmelerde hakların durumu 
+MADDE 65 – (1) Taşınmazın kamulaştırma nedeniyle, hakların ve yüklerin 
+aktarılmasına gerek olmaksızın bir parçasının ayrılarak sicilden terkini gerekiyor ise, kütük 
+sayfası, taşınmazın diğer kısmı için olduğu gibi bırakılır. Ayrılan parçanın yüzölçümü, ayırma 
+tarihi ve yevmiye numarası ile ayırma nedeni taşınmazın yüzölçümü kısmında gösterilir ve 
+miktarından düşülür. İşlemin sonucu, kütükteki bütün hak sahiplerine ve kamulaştırmayı 
+yapan idareye bildirilir. 
+(2) Malikin istemiyle kamuya ayrılan alanlara terk hâlinde ise, kütükteki bütün hak 
+sahiplerinin onayı aranır. 
+ 
+Birleştirme ve hakların taşınması 
+MADDE 66 – (1) Aynı veya değişik maliklere ait birbirine bitişik taşınmazların 
+birleştirilmesi mümkündür. 
+(2) Birleştirilecek taşınmazların üzerinde sınırlı aynî haklar ile şerhedilmiş kişisel 
+haklar var ise, bütün hak sahiplerinin onayı alınır. 
+(3) Aynı malike ait yüklü olmayan bir taşınmaz ile yüklü bir taşınmazın birleştirilmesi 
+istenildiğinde, hak sahiplerinin onayı aranmaz. 
+(4) Yapılacak planlarla yola cepheli duruma gelen taşınmazlar üzerinde geçit hakkı 
+bulunması hâlinde, birleştirme işleminde geçit hakkı lehtarının onayı aranmaz. 4721 sayılı 
+Kanunun 1026 ncı maddesi uyarınca yüklü taşınmaz malikinin istemine istinaden birleştirme 
+sonucu yola cepheli hâle gelen taşınmazların lehine olan geçit hakkı terkin edilir ve geçit 
+hakkı lehtarına hemen bildirilir. 
+(5) Birleştirilen taşınmazlar üzerindeki hak ve yükler, yeni oluşan taşınmazın kütük 
+sayfasına aynen nakledilir. Nakledilen haklar ve yüklerin paydaşlardan hangisine ait olduğu 
+da ayrıca belirtilir ve eski sayfalar kapatılır. 
+ 
+Sayfa kapatılması ve yeni sayfa açılması 
+MADDE 67 – (1) Bölünme, birleştirme, taşınmaz kaydının terkini ve aktarılması 
+durumlarında kütük sayfası kapatılır. Bunun için "Sayfa No" sütunu sol üst köşeden sağa 
+çapraz tek çizgiyle, "Mülkiyet" sütununda maliklerden sonra gelen ilk boş satır da yatay 
+olmak üzere kırmızı mürekkepli kalemle ve çift çizgi ile çizilir. Beyanlar sütununda kütük 
+sayfasının kapatılma nedeni yine kırmızı mürekkepli kalemle açıklanarak, işlemle ilgili tarih 
+
+ve yevmiye numarası yazılır. 
+(2) Kapatılan kütük sayfası ile birlikte varsa ek sayfalar da aynı şekilde kapatılır. 
+(3) Bir taşınmaza ait kütük sayfası yıpranma veya kopma gibi nedenlerle kullanılamaz 
+veya okunamaz hâle gelirse, re'sen kapatılır ve yeni sayfa açılır. 
+(4) Kapatılan sayfa ve sayfalar üzerindeki terkin edilmemiş haklar ve beyanlar, açılan 
+yeni sayfaya kendi tarih ve yevmiye numaraları değiştirilmeden aynen nakledilir. Kapatılan 
+sayfa üzerinde işlem yapılamaz. 
+(5) Kat mülkiyeti veya kat irtifakına tâbi taşınmazların tescilinde ve kütük sayfalarının 
+açılıp kapatılmasında 634 sayılı Kanun hükümleri saklıdır. 
+ 
+Ek sayfa açılması 
+MADDE 68 – (1) Bir taşınmazın kayıtlı olduğu kütük sayfasının sütunlarından 
+herhangi birisinin dolması hâlinde, ilgili mahalle veya köyün son kütüğünde ilk boş sayfa 
+açılır ve sayfanın numara sütunundaki ek sayfa numarası ile karşılıklı bağlantı sağlanır. 
+Açılan ek sayfalarda taşınmazın yüzölçümü ve niteliği belirtilmez. 
+ 
+DOKUZUNCU BÖLÜM 
+Terkin, Değişiklik ve Düzeltmeler 
+ 
+Terkin 
+MADDE 69 – (1) Tapu sicilinde terkin, tescilin kendisine hak sağladığı kimsenin 
+istemine ya da yetkili makam veya mahkeme kararına istinaden yapılır. 
+(2) Kayıtların terkininde, tescil istemleriyle ilgili hükümler uygulanır. 
+(3) Kanunda açıkça gösterilen hâller ile şerhedilmiş kişisel haklarda ve tescil edilmiş 
+taşınmaz lehine veya kişisel irtifak haklarında belli bir süre söz konusu ise, bu sürenin 
+dolması hâlinde taşınmaz malikinin istemi üzerine terkin işlemi yapılır. 
+(4) Bir aynî hakkın veya şerhedilmiş kişisel hakkın diğer sebeplere dayalı olarak sona 
+ermesiyle kayıt hukukî değerini kaybettiği takdirde, yüklü taşınmaz maliki, terkini isteyebilir. 
+Müdürlük, bu istemi yerine getirirse her ilgili, bu işlemin kendisine tebliğ tarihinden 
+başlayarak otuz gün içinde terkine karşı dava açabilir. 
+(5) 21/7/1953 tarih ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun 
+hükümleri uyarınca takip edilen kamu alacaklarına ilişkin haciz, iflas, konkordato ile verilen 
+süre ve 9/6/1932 tarih ve 2004 sayılı İcra ve İflas Kanununun 150/c maddesi şerhi bulunan 
+taşınmazlar hariç olmak üzere, tapu siciline yapılan şerhten itibaren iki yıllık sürenin sonunda 
+Müdürlüğe yenilendiği bildirilmemiş olan hacizler, taşınmaz malikinin istemi üzerine terkin 
+edilir ve durum icra müdürlüğüne bildirilir.12345 
+ 
+1 Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/7077, K.: 2016/1514 sayılı Kararı ile iptal 
+edilmiştir. 
+2 Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/7878, K.: 2016/1515 sayılı Kararı ile iptal 
+edilmiştir. 
+
+ 
+Terkinin şekli 
+MADDE 70 – (1) Tapu sicili üzerinde yapılacak terkinler, terkin edilecek hakla ilgili 
+kaydın üzerinin kırmızı mürekkepli kalemle çizilmesi ve altındaki satıra yine kırmızı 
+mürekkepli kalemle "terkin edildi" ibaresi ile tarih ve yevmiye numarasının yazılması ve 
+müdürün veya görevlendireceği tapu görevlisinin imzalamasıyla olur. 
+(2) Hakkın tescilinde harf kullanılmış ise, terkininde de aynı harf kullanılır. 
+ 
+İpotekli borç senedi ve irat senedinin iptali 
+MADDE 71 – (1) İpotekli borç senedi veya irat senedinin iptali, kırmızı mürekkepli 
+kalemle çapraz çizgi çekilmek ve terkin edildiği hususu yazılmak, terkine ilişkin tarih ve 
+yevmiye numarası belirtilmek ve müdür tarafından imzalanmak suretiyle yapılır. 
+(2) İpotekli borç senedi veya irat senedi yıpranmış ve okunamayacak hale gelmiş ise, 
+aynı usulle ve üzerine iptal nedeni yazıldıktan sonra iptal edilip, yeniden verilme nedeni 
+belirtilmek suretiyle yeni senet verilir. Yeni senet müdür ile defterdar veya malmüdürü 
+tarafından imzalanır. İptal edilen senetler kütük sayfasına ait dosyada saklanır. 
+ 
+Kaydın değiştirilmesi 
+MADDE 72 – (1) Tapu sicilinde değişiklik, hak sahibinin istemine ya da yetkili 
+makam veya mahkeme kararına istinaden yapılır. 
+(2) Tapu sicilindeki değişiklikler, üzerinin kırmızı mürekkepli kalemle çizilip, 
+değişiklik tarih ve yevmiye numarasıyla yeni kaydın yazılması suretiyle yapılır. 
+(3) Önceki kayıt bir harfle yazılı ise, değişiklikte de aynı harf kullanılır. 
+(4) Rehinli alacağın kısmen ödenmesi veya rehnin miktar, faiz, derece, süre gibi 
+unsurlarında yapılacak değişiklikler, düşünceler sütununda ilgili rehnin harfi kullanılmak 
+suretiyle belirtilir. 
+ 
+Rehinli alacağın devri 
+MADDE 73 – (1) Rehinli alacağın devri hâlinde; kütük sayfasının ilgili sütununda 
+eski alacaklının adı, soyadı ve baba adı kırmızı mürekkepli kalemle çizilir ve üzerine 
+düşüncelere bakınız anlamına gelen "D.B." harfleri, düşünceler sütununda da rehinle ilgili 
+harfle yeni alacaklının adı, soyadı, baba adı ile işleme ait tarih ve yevmiye numarası yazılır. 
+ 
+Ana veya yardımcı siciller üzerindeki düzeltmeler 
+MADDE 74 – (1) Kütük, yevmiye defteri ve yardımcı sicillerde, belgelere aykırı basit 
+yazım hatası yapıldığının tespit edilmesi hâlinde, müdür tarafından nedeni düzeltmeler 
+sicilinde açıklanarak, re'sen düzeltme yapılır. 
+ 
+3 Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6872, K.: 2016/1511 sayılı Kararı ile iptal 
+edilmiştir. 
+4 Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6805, K.: 2016/1513 sayılı Kararı ile iptal 
+edilmiştir. 
+5 Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6066, K.: 2016/1512 sayılı Kararı ile iptal 
+edilmiştir. 
+
+(2) İstem belgesinde yapılan yanlışlık veya eksiklik düzeltilerek belgenin uygun bir 
+yerine yazılmak suretiyle taraflar ve tapu görevlilerince imzalanır ve sicilde buna uygun 
+düzeltme yapılır. 
+(3) Ana veya yardımcı siciller üzerinde yapılmış hata veya eksikliklerin, ilgililerce 
+sunulan veya başka idarelerce düzenlenen belgelerden kaynaklanması hâlinde, ilgililerin 
+gerçek durumu kanıtlayıcı belgelere dayalı başvuruları üzerine, istem yevmiye defterine 
+kaydedilerek gerekli düzeltme yapılır. 
+(4) Kütük, yevmiye defteri ve yardımcı sicillerde, belgelere aykırı tescil veya esaslı 
+yazım hatasının düzeltilebilmesi için ilgililerin yazılı olurunun alınması gerekir. İlgililerden 
+birisinin yazılı oluru olmazsa, bu durum beyanlar sütununda belirtilerek, 26/9/2011 tarih ve 
+659 sayılı Kanun Hükmünde Kararname hükümlerine göre işlem yapılır. 
+(5) Yapılacak düzeltmeler hatalı yazımdan sonra hak sahibi olmuş kişilerin hakkını 
+etkileyici nitelikte ise, bu hak sahiplerinin de yazılı olurları aranır. 
+(6) Müdürlük, ilgililerin bilgisi dışında yaptığı işlemleri tebliğ etmekle yükümlüdür. 
+ 
+Tapu sicilindeki bilgilerin güncellenmesi 
+MADDE 75 – (1) Kadastro çalışmalarından kaynaklanan malikin veya hak sahibinin adı, 
+soyadı ve baba adına ilişkin tapu kütüğündeki yazım hataları ilgilisinin başvurusu üzerine; 
+a) Senetsizden tespitlerde; nüfus kayıt örneği ve taşınmazın bulunduğu belediye veya 
+muhtarlıktan alınacak fotoğraflı ilmühaber, 
+b) Kayda dayalı tespitlerde; dayanağı kayıt ve belgeler, 
+incelenmek ve gerektiğinde tanık ve varsa tespit bilirkişileri dinlemek ve zeminde 
+inceleme yapmak suretiyle istemin gerçek hak sahibinden geldiği belirlenirse, istem yevmiye 
+defterine kaydedilerek düzeltilir. 
+(2) Zeminde inceleme, kadastro müdürlüğü teknik personeli ile birlikte yapılır ve 
+inceleme neticesinde teknik rapor düzenlenir. Zeminde incelemede, komşu parsel malikleri, 
+muhtar ve diğer ilgililer dinlenir; vergi kaydı ve diğer her türlü bilgi ve belgeden yararlanılır. 
+(3) Tapu sicilindeki bilgilerin güncellenmesi ve eksikliklerin giderilmesinde de yukarıdaki 
+fıkralar uygulanır. 
+(4) Bu madde hükümleri uyarınca kayıt düzeltmeleri için müdürlüklere başvuru 
+yapılması zorunludur. 
+ 
+Düzeltmenin şekli 
+MADDE 76 – (1) Yanlış yazım okunacak şekilde, kırmızı mürekkepli kalemle çizilir 
+ve ilk boş satıra doğrusu yazılır. 
+(2) Kazıntı, silinti, satır aralarına veya sayfa kenarına çıkıntı veya kayda ek yapılmak 
+suretiyle düzeltme yapılamaz. 
+(3) Yevmiye defterine kaydedilerek yapılan düzeltmelerde tarih ve yevmiye numarası, 
+düzeltmeler siciline kaydedilerek yapılanlarda ise, bu sicilin numarası düzeltilen işlemin 
+
+üzerine “D.S.” şeklinde başlayarak yazılır. Düzeltme ile ilgili belgeler taşınmaza ait dosyada 
+saklanır. 
+ 
+ONUNCU BÖLÜM 
+Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler 
+ 
+Aziller sicili 
+MADDE 77 – (1) Vekâletten aziller, vekâlet verenlerin adının baş harfleri ve Türkiye 
+Cumhuriyeti kimlik numarasına göre, her harf için sicilde ayrılan bölüme yazılır. 
+(2) Azil belgesi geldiğinde, müdür veya görevlendireceği tapu görevlisi tarafından üzerine 
+alındığı tarih, saat ve dakika hemen yazılarak, aziller siciline kaydedilir. 
+ 
+Düzeltmeler sicili 
+MADDE 78 – (1) Yevmiye defterine yazılması gerekmeyen düzeltmelerin sebebi, 
+düzeltmeler siciline kaydedilir. 
+ 
+Kamu orta malları sicili 
+MADDE 79 – (1) Mera, yaylak, kışlak, otlak, harman ve panayır yerleri gibi kamu 
+orta malları, özel siciline kaydedilir ve hangi köy veya belediyeye tahsisli olduğu belirtilir. 
+İlgili belgeler özel dosyasında saklanır. 
+ 
+Tapu envanter defteri 
+MADDE 80 – (1) Müdürlükte bulunan bütün kütük, zabıt defteri, yevmiye defteri ve 
+resmî senet ciltleri ile yardımcı siciller tapu envanter defterine kaydedilir. 
+ 
+İdarî sınırlar kayıt defteri 
+MADDE 81 – (1) Yetkili mercilerce tespit edilen idarî sınırlarla ilgili kararlar ve köy 
+sınırları, idarî sınırlar kayıt defterine kaydedilir ve belgeleri özel dosyasında saklanır. 
+ 
+Sicillerin korunması ve senetlerin arşivlenmesi 
+MADDE 82 – (1) Bu Tüzükte yazılı ana ve yardımcı siciller ile idarî sınırlar kayıt 
+defteri özenle saklanır. 
+(2) Resmî senetler her yıl tarih ve yevmiye sırasıyla ciltlenerek saklanır. 
+ 
+Belgelerin arşivlenmesi 
+MADDE 83 – (1) Arşivlenecek belgelerin tespiti, elektronik ortamda arşivlenmesi, 
+arşivlemenin usul ve esasları Genel Müdürlükçe belirlenir. 
+(2) Hangi belgelerin imha edilebileceği ve imha edilme süreleri Genel Müdürlükçe 
+belirlenir. 
+ 
+Sicillerin müdürlük dışına çıkarılması 
+
+MADDE 84 – (1) Tapu sicilleri, Genel Müdürlük birimleri dışına çıkarılamaz. 
+(2) Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması 
+ve ispatı gerektiğinde, onaylı örnekleri verilir. Ancak, mahkemeler veya yetkili resmî 
+merciiler tarafından sicil veya belgelerin aslı istenildiği takdirde, örnekleri müdür tarafından 
+tasdik edilip, iade edilmek üzere imza karşılığında asılları verilir. Onaylı örnek belgeler, 
+asılları iade edilene kadar özenle saklanır. 
+ 
+Belge örnekleri 
+MADDE 85 – (1) Tapu işlemleri ile ilgili olarak düzenlenen istem belgesi, resmî senet, 
+tapu senedi ve ipotek belgelerinin birer örneği, müdürlük tarafından hak sahiplerine verilir. 
+(2) İlgilisinin istemi hâlinde, tapu sicilini oluşturan diğer bilgi ve belgelerin örneği verilir. 
+ 
+Belgelerin şekli 
+MADDE 86 – (1) Tapu işlemlerinde kullanılacak belgelerin şekilleri, Genel Müdürlük 
+tarafından belirlenir. 
+ 
+Sicillerin onanması 
+MADDE 87 – (1) Kütük, yevmiye defteri ve yardımcı siciller kullanılmadan önce, birbirini 
+takip eden sayfa numaraları verilerek müdür tarafından kaç sayfadan ibaret olduğu son sayfaya 
+yazılıp tarih, imza ve mühürle onanır, sayfa araları da ayrıca müdürlük mührü ile mühürlenir. 
+Kadastro aşamasında oluşturulan kütüklerin onama işlemi kadastro müdürü tarafından yapılır. 
+ 
+Belgelerin elden takibi ve şekli 
+MADDE 88 – (1) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek 
+kuruluşları, mahkemeler, icra müdürlükleri, bankalar ve özel hukuk tüzel kişileri tarafından 
+düzenlenen aynî veya kişisel hakkı sona erdirecek nitelikteki belgeler, tapu işlemi için elden 
+ibraz edilemez. Bu belgeler 7201 sayılı Kanun hükümlerine göre müdürlüklere tebliğ edilir. 
+(2) Birinci fıkra gereğince, tapu işlemlerine yönelik düzenlenen belgelerde silinti, 
+kazıntı ve çıkıntı yapılamaz. 
+ 
+Yönetmelik 
+MADDE 89 – (1) Bu Tüzüğün uygulanmasına ilişkin hususlar yönetmelikle düzenlenir. 
+ 
+Yürürlükten kaldırılan hükümler 
+MADDE 90 – (1) 18/5/1994 tarihli ve 94/5623 sayılı Bakanlar Kurulu Kararı ile 
+yürürlüğe konulan Tapu Sicili Tüzüğü yürürlükten kaldırılmıştır. 
+ 
+Kadastrosu yapılmamış yerlerdeki taşınmazın tescili 
+GEÇİCİ MADDE 1 – (1) Henüz kadastrosu yapılmamış yerlerde kütük yerine zabıt 
+defteri veya kat mülkiyeti zabıt defteri tutulur. Taşınmazın sınırları hudut komşuları yazılarak 
+
+gösterilir. Taşınmazın varsa resmî haritası veya planı dosyasında saklanır. 
+ 
+Kadastrosu yapılmamış yerlerde arşiv 
+GEÇİCİ MADDE 2 – (1) Kadastrosu yapılmamış yerlerde, her işleme ait belgeler, o 
+işlem için ayrı bir dosya içinde üzeri tarih, sıra ve yevmiye numarası yazılarak saklanır. 
+İşlemlere ait dosyalar ayrıca aylık olarak arşivlenir. 
+ 
+Yürürlük 
+MADDE 91 – (1) Danıştayca incelenmiş olan bu Tüzük yayımı tarihinde yürürlüğe girer. 
+ 
+Yürütme 
+MADDE 92 – (1) Bu Tüzük hükümlerini Bakanlar Kurulu yürütür. 
