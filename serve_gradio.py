@@ -15,6 +15,8 @@ SYSTEM_PROMPT = os.environ.get(
     "Bilmiyorsan uydurma; 'Bilmiyorum' de."
 )
 
+USE_ADAPTER = os.environ.get("USE_ADAPTER", "1") == "1"
+
 def load():
     tok = AutoTokenizer.from_pretrained(BASE, use_fast=True)
     model = AutoModelForCausalLM.from_pretrained(
@@ -22,7 +24,8 @@ def load():
         dtype=torch.bfloat16,
         device_map="auto",
     )
-    model = PeftModel.from_pretrained(model, ADAPTER)
+    if USE_ADAPTER:
+        model = PeftModel.from_pretrained(model, ADAPTER)
     model.eval()
     return tok, model
 
