@@ -94,7 +94,7 @@ def main():
         learning_rate=LR,
         num_train_epochs=EPOCHS,
         logging_steps=20,
-        evaluation_strategy="steps",
+        eval_strategy="steps",   # <-- burası
         eval_steps=200,
         save_steps=200,
         save_total_limit=2,
