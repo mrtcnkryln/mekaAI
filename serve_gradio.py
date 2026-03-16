@@ -19,6 +19,9 @@ TOP_K = int(os.environ.get("TOP_K", "4"))
 
 MAX_NEW_TOKENS = int(os.environ.get("MAX_NEW_TOKENS", "220"))
 
+MIN_TOP1_SCORE = float(os.environ.get("MIN_TOP1_SCORE", "0.35"))
+MIN_TOP1_LEN = int(os.environ.get("MIN_TOP1_LEN", "200"))
+
 SYSTEM_PROMPT = (
     "Sen Türkiye mevzuatına dayalı bir asistansın.\n"
     "Aşağıdaki ALINTI parçaları tek kaynaktır.\n"
@@ -75,13 +78,25 @@ def make_prompt(user_text: str, history):
         msgs.append({"role": "assistant", "content": a})
     msgs.append({"role": "user", "content": f"SORU: {user_text}\n\nALINTI:\n{alinti}\n"})
 
-    return tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True)
+    prompt = tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True)
+    return prompt, hits
 
 @torch.no_grad()
 def respond(user_text, history):
-    prompt = make_prompt(user_text, history)
-    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    prompt, hits = make_prompt(user_text, history)
 
+    top1_score = hits[0][0] if hits else 0.0
+    top1_text = hits[0][1]["text"] if hits else ""
+    if (top1_score < MIN_TOP1_SCORE) or (len(top1_text.strip()) < MIN_TOP1_LEN):
+        return (
+            "Kısa cevap: Bilmiyorum (mevcut kaynaklarda bulunamadı).\n"
+            "Dayanak: (yok)\n"
+            "Alıntı: (yok)\n"
+            "Yorum: Bu soru için bilgi tabanımda yeterli mevzuat/metin yok. "
+            "İlgili kanun/metin eklenirse cevaplayabilirim."
+        )
+
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     out = model.generate(
         **inputs,
         max_new_tokens=MAX_NEW_TOKENS,
